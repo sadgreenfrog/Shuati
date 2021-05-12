@@ -1,1 +1,26 @@
+## Binary Search
 
+https://leetcode.com/problems/binary-search/
+
+My solution:
+```python
+import
+class Solution(object):
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        a = len(nums)
+        l, r = 0, a;
+        for i in range(a+1):
+            mid = (l+r) // 2
+            if target < nums[mid]:
+                r = mid;
+            elif target > nums[mid]:
+                l = mid;
+            else:
+                return mid;
+        return -1;
+```
