@@ -1,0 +1,54 @@
+## Backspace String Compare
+
+https://leetcode.com/problems/backspace-string-compare/
+
+My Solution
+
+```python
+        i = len(s) - 1
+        j = len(t) - 1
+        skipS = skipT = 0
+        while (i>=0 or j>=0):
+            while i >= 0:
+                if s[i] == "#":
+                    skipS = skipS + 1
+                    i = i - 1
+                elif skipS > 0:
+                    skipS = skipS - 1
+                    i = i - 1
+                else:
+                    break
+            while j >= 0:
+                if t[j] == "#":
+                    skipT = skipT + 1
+                    j = j - 1
+                elif skipT > 0:
+                    skipT = skipT - 1
+                    j = j - 1
+                else:
+                    break
+            if i >= 0 and j >= 0:
+                if s[i] != t[j]:
+                    return False
+            elif i >= 0 or j >= 0:
+                return False
+            i = i - 1
+            j = j - 1
+        return True
+```
+
+## 解题思路和想法
+
+基本想法是遍历字符，从前往后的话，遇到一个字符，我们不知道这个字符后面有多少#需要删减多少格子。所以需要从后往前遍历，这样每遇到一个字符，就能确定它的位置。
+
+从后往前遍历，只需要while x>0,然后x一开始赋值为大的数字，然后每遍历一次减少一次。
+
+我们设置一个skip，每次遇到#就加一次，如果遇到的不是#，那就说明是数字，那就按照skip的value减少i。
+
+注意每一次比较，都遍历了一遍s和t并且只是比较了一个数字，如果在这之中就有不一样了，那就false。
+
+如果没有false, 那就i = i - 1, j = j - 1, 直到这个循环结束都没问题就true。
+
+
+
+
