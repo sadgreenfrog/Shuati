@@ -21,6 +21,6 @@ Track Shuati progress
 |滑动窗口||
 ||[209](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/209.%20Minimum%20Size%20Subarray%20Sum.md)|基本看的答案,两个while的组合第一次见|
 |5/15(3)|904||
-||76|要再看|
-|模拟行为|59|
-||54||
+||[76(h)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/76.%20Minimum%20Window%20Substring(h).md)|引入了频数的概念，要多看|
+|模拟行为|[59(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/59.%20Spiral%20MatrixII(m).md)|考察code能力|
+||[54(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|和59按照一个套路做的，但是答案不对|
