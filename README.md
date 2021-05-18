@@ -18,9 +18,11 @@ Track Shuati progress
 ||[283](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/283.%20Move%20Zeros.md)|注意j指到的位置一定是没用(0)的位置，如果不为0，早就被填上了|
 ||[844](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/844.%20Backspace%20String%20Compare)|不太熟悉这两个分开的循环，相当于并列了|
 |5/14(2:17)|[977](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/977.%20Squares%20of%20a%20Sorted%20Array.md)|一共有四种情况需要考虑+这是一道指针从中间往两边走的题目|
-|滑动窗口||
+|滑动窗口(Sliding windows)||
 ||[209](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/209.%20Minimum%20Size%20Subarray%20Sum.md)|基本看的答案,两个while的组合第一次见|
 |5/15(3)|[904(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/904.%20Fruit%20Into%20Baskets(m).md)||
 ||[76(h)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/76.%20Minimum%20Window%20Substring(h).md)|引入了频数的概念，要多看|
 |模拟行为|[59(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/59.%20Spiral%20MatrixII(m).md)|考察code能力|
-||[54(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|和59按照一个套路做的，但是答案不对|
+|5/17(5:30)|[54(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|和59按照一个套路做的，但是答案不对|
+|链表(Linked List)|||
+||[203](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/203.%20Remove%20Linked%20List%20Elements(e).md)|花很久了解了一下什么是链表，以及表达方式，编程用法,做的越来越慢了。|
