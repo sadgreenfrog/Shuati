@@ -25,4 +25,10 @@ Track Shuati progress
 |模拟行为|[59(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/59.%20Spiral%20MatrixII(m).md)|考察code能力|
 |5/17(5:30)|[54(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|和59按照一个套路做的，但是答案不对|
 |链表(Linked List)|||
-||[203](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/203.%20Remove%20Linked%20List%20Elements(e).md)|花很久了解了一下什么是链表，以及表达方式，编程用法,做的越来越慢了。|
+||[203(e)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/203.%20Remove%20Linked%20List%20Elements(e).md)|花很久了解了一下什么是链表，以及表达方式，编程用法,做的越来越慢了。|
+||[206(e)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/206.%20Reverse%20Linked%20List(e).md)|注意链表比较习惯用一个tmp来存储中间值|
+||141||
+||83||
+||234||
+||237||
+||876||
