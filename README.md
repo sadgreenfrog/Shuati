@@ -26,9 +26,10 @@ Track Shuati progress
 |5/17(5:30)|[54(m)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|和59按照一个套路做的，但是答案不对|
 |链表(Linked List)|||
 ||[203(e)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/203.%20Remove%20Linked%20List%20Elements(e).md)|花很久了解了一下什么是链表，以及表达方式，编程用法,做的越来越慢了。|
-||[206(e)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/206.%20Reverse%20Linked%20List(e).md)|注意链表比较习惯用一个tmp来存储中间值|
-||141||
-||83||
-||234||
-||237||
-||876||
+|5/18(1.35)|[206(e)](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/206.%20Reverse%20Linked%20List(e).md)|注意链表比较习惯用一个tmp来存储中间值|
+||141|基础知识知道的也太少了我|
+||[83](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List(e).md)|我又行了？head指向的个对象,head本身没有指，只是一个动作|
+|5.19|[234](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/234.%20Palindrome%20Linked%20List(e).md)|重看206，回文串要找中间点+反转+对比|
+||[237](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/237.%20Delete%20Node%20in%20a%20Linked%20List(e).md)|注意是个没有head的题目|
+||[876](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/876.%20Middle%20of%20the%20Linked%20List(e).md)|如果要求在列表中有两个节点时返回第一个节点，可以在链表头加一个dummy节点|
+||707||
