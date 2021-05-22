@@ -35,8 +35,8 @@ Track Shuati progress
 |Weekly: 22 problems|3 chapter python|25.16hour|
 |5.20|707|回头再看一下|
 |哈希表(hash table)|||
-||242|。|
-||383||
+||242|dict用来应用于一些哈希表题目,set/map也可|
+||383|和242区别就是限定条件不一样|
 ||349||
 ||202||
 ||454||
