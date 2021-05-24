@@ -38,7 +38,7 @@ Track Shuati progress
 ||[242](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/242.%20Valid%20Anagram(e).md)|dict用来应用于一些哈希表题目,set/map也可|
 ||[383](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/383.%20Ransom%20Note(e).md)|和242区别就是限定条件不一样|
 |5.24|[349](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/349.%20Intersection%20of%20Two%20Arrays(e).md)|哈希表建立了之后，只要注意后面的限定条件就行。|
-||202||
+||[202](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/202.%20Happy%20Number(e).md)|set/dictionary区别|
 ||454||
 ||15||
-||1||
+||[1](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1.%20Two%20Sum(e).md)|3+3=6,2+4=6,注意不限定条件|
