@@ -33,7 +33,7 @@ Track Shuati progress
 ||[237](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/237.%20Delete%20Node%20in%20a%20Linked%20List(e).md)|注意是个没有head的题目|
 ||[876](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/876.%20Middle%20of%20the%20Linked%20List(e).md)|如果要求在列表中有两个节点时返回第一个节点，可以在链表头加一个dummy节点|
 |Weekly: 22 problems|3 chapter python|25.16hour|
-|5.20(2)|707|回头再看一下|
+|5.20(2)|[707](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/707.%20Design%20Linked%20List(m).md)|回头再看一下|
 |哈希表(hash table)|||
 ||[242](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/242.%20Valid%20Anagram(e).md)|dict用来应用于一些哈希表题目,set/map也可|
 ||[383](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/383.%20Ransom%20Note(e).md)|和242区别就是限定条件不一样|
