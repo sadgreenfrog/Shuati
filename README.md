@@ -39,6 +39,6 @@ Track Shuati progress
 ||[383](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/383.%20Ransom%20Note(e).md)|和242区别就是限定条件不一样|
 |5.24(2)|[349](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/349.%20Intersection%20of%20Two%20Arrays(e).md)|哈希表建立了之后，只要注意后面的限定条件就行。|
 ||[202](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/202.%20Happy%20Number(e).md)|set/dictionary区别|
-||[454](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/454.%204Sum%20II(m).md)|注意重复的值|
+||[454](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/454.%204Sum%20II(m).md)|注意重复的值也要代入|
 |5.25|[15](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/15.%203Sum.(e).md)|这题不需要重复值，所以用哈希表不好剔除|
 ||[1](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1.%20Two%20Sum(e).md)|3+3=6,2+4=6,注意不限定条件|
