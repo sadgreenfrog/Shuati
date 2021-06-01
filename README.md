@@ -44,4 +44,4 @@ Track Shuati progress
 ||[1](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1.%20Two%20Sum(e).md)|3+3=6,2+4=6,注意不限定条件|
 |字符串(string)|||
 |5.26|[344](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/344.%20Reverse%20String(e).md)|注意空list不能直接赋值|
-|复习一天|||
+|6.1|复习一天||
