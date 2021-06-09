@@ -47,3 +47,5 @@ Track Shuati progress
 |6.1(1:25)|复习一天||
 |6.4|[151](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/151.%20Reverse%20Words%20in%20a%20String(m).md)|数组/list/string的reverse/remove集合，把之前的也算复习了一遍|
 |6.7|[542](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/541.%20Reverse%20String%20II(e).md)|注意string和array处理起来不一样|
+|栈与队列(stack and queue)|KMP跳了||
+|6.9|||
