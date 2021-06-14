@@ -49,4 +49,6 @@ Track Shuati progress
 |6.7|[542](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/541.%20Reverse%20String%20II(e).md)|注意string和array处理起来不一样|
 |栈与队列(stack and queue)|KMP跳了||
 |6.9|[232](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/232.%20Implement%20Queue%20using%20Stacks(e).md)|stack和queue比较基础的理解|
+|6.11|[225](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/225.%20Implement%20Stack%20using%20Queues(e).md)|same as 232|
+|6.13|[20](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/20.%20Valid%20Parentheses(e).md)|stack的基本应用|
 
