@@ -52,4 +52,5 @@ Track Shuati progress
 |6.11|[225](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/225.%20Implement%20Stack%20using%20Queues(e).md)|same as 232|
 |6.13|[20](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/20.%20Valid%20Parentheses(e).md)|stack的基本应用|
 ||[1047](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String(e).md)||
+|6.14|[150](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/150.%20Evaluate%20Reverse%20Polish%20Notation(e).md)|对对碰|
 
