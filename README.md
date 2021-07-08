@@ -1,5 +1,7 @@
 # 悲伤绿青蛙的Shuati
-Track Shuati progress 每天他妈的必须要做十个
+Track Shuati progress 
+
+7.8 - 每天他妈的必须要做十个
 
 按照 https://github.com/youngyangyang04/leetcode-master/tree/master/problems 的顺序来刷题.
 
