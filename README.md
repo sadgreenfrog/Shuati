@@ -60,3 +60,4 @@ Track Shuati progress
 |7.8|[102](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal(m).md)|树的层序遍历|
 ||[107](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II(m).md)||
 ||[199](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/199.%20Binary%20Tree%20Right%20Side%20View(m).md)|层遍历，每一层取最后一个|
+||[637](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree(m).md)|map函数挺好用|
