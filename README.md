@@ -65,3 +65,4 @@ Track Shuati progress
 ||[637](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree(m).md)|map函数挺好用|
 ||[429](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/429.%20N-ary%20Tree%20Level%20Order%20Traversal(m).md)|注意childre|
 ||[515](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row(m).md)|和637一个思路|
+||[116](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node(m).md)|判断最右的条件，然后.next|
