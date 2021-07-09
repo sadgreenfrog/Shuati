@@ -69,4 +69,4 @@ Track Shuati progress
 ||117|和116一样的|
 ||[226](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/226.%20Invert%20Binary%20Tree(e).md)|注意type|
 ||[101](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/101.%20Symmetric%20Tree(e).md)|主要就还是遍历|
-|7.9|||
+|7.9|[104](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree(e).md)||
