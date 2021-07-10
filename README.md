@@ -71,3 +71,4 @@ Track Shuati progress
 ||[101](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/101.%20Symmetric%20Tree(e).md)|主要就还是遍历|
 |7.9|[104](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree(e).md)||
 ||[559](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/559.%20Maximum%20Depth%20of%20N-ary%20Tree(e).md)|注意用append过不去运行|
+||[111](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/111.%20Minimum%20Depth%20of%20Binary%20Tree(e).md)|最小深度:not left and not right|
