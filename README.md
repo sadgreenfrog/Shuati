@@ -75,3 +75,6 @@ Track Shuati progress
 ||[222](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/222.%20Count%20Complete%20Tree%20Nodes(e).md)|层遍历+数结点|
 ||[111](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/110.%20Balanced%20Binary%20Tree(e).md)|************|
 ||[257](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/257.%20Binary%20Tree%20Paths(e).md)|找所有路径，多少有点难了|
+||[100](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/100.%20Same%20Tree(e).md)|比较左右树|
+||[572](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/572.%20Subtree%20of%20Another%20Tree(e).md)|遍历节点+100 same tree|
+
