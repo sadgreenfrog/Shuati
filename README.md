@@ -77,4 +77,6 @@ Track Shuati progress
 ||[257](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/257.%20Binary%20Tree%20Paths(e).md)|找所有路径，多少有点难了|
 ||[100](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/100.%20Same%20Tree(e).md)|比较左右树|
 ||[572](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/572.%20Subtree%20of%20Another%20Tree(e).md)|遍历节点+100 same tree|
+||[404](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/404.%20Sum%20of%20Left%20Leaves(e).md)|左子叶之和|
+||[513](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/513.%20Find%20Bottom%20Left%20Tree%20Value(m).md)|找树最左下角|
 
