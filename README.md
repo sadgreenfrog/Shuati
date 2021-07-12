@@ -79,4 +79,7 @@ Track Shuati progress
 ||[572](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/572.%20Subtree%20of%20Another%20Tree(e).md)|遍历节点+100 same tree|
 ||[404](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/404.%20Sum%20of%20Left%20Leaves(e).md)|左子叶之和|
 ||[513](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/513.%20Find%20Bottom%20Left%20Tree%20Value(m).md)|找树最左下角|
+|7/12|[112](https://github.com/sadgreenfrog/Shuati/edit/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/112.%20Path%20Sum(e).md)|路径总和，递归理解的不好|
+||[113]||
+||||
 
