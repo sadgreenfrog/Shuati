@@ -81,5 +81,5 @@ Track Shuati progress
 ||[513](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/513.%20Find%20Bottom%20Left%20Tree%20Value(m).md)|找树最左下角|
 |7/12|[112](https://github.com/sadgreenfrog/Shuati/edit/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/112.%20Path%20Sum(e).md)|路径总和，递归理解的不好|
 ||[113](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/113.%20Path%20Sum%20II(m).md)|路径总和2，语法逻辑有问题**********|
-||||
+||[106](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal(e).md)|用中序后序构建二叉树，递归|
 
