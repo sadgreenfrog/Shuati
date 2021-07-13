@@ -85,6 +85,7 @@ Track Shuati progress
 ||[105](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal(e).md)|前序后序构建二叉树进行分割|
 ||[654](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/654.%20Maximum%20Binary%20Tree(m).md)|最大二叉树，分割为左右子树，递归|
 ||[617](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/617.%20Merge%20Two%20Binary%20Trees(e).md)|合并二叉树|
+||[700](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree(e).md)|搜索二叉搜索树|
 
 
 
