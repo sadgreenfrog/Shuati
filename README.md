@@ -87,6 +87,7 @@ Track Shuati progress
 ||[617](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/617.%20Merge%20Two%20Binary%20Trees(e).md)|合并二叉树|
 ||[700](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree(e).md)|搜索二叉搜索树|
 ||[98](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/98.%20Validate%20Binary%20Search%20Tree(m).md)|验证二叉搜索树|
+||[530](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST(e).md)|搜索二叉树最小绝对值差|
 
 
 
