@@ -95,6 +95,8 @@ Track Shuati progress
 ||[450](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/450.%20Delete%20Node%20in%20a%20BST(e).md)|删除二叉搜索树中的节点|
 ||[669](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/669.%20Trim%20a%20Binary%20Search%20Tree(e).md)|修建二叉搜索树******|
 ||[108](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree(e).md)|将有序数组转换为二叉搜索树|
+||[538](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/538.%20Convert%20BST%20to%20Greater%20Tree(e).md)|把二叉树转换为累加树|
+
 
 
 
