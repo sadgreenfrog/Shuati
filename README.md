@@ -102,7 +102,7 @@ Track Shuati progress
 ||[17]https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(m).md|电话号码组合,不同子集的组合|
 ||[39](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/39.%20Combination%20Sum(m).md)|组合总和1+树没有深度限制|
 ||[40](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/40.%20Combination%20Sum%20II(m).md)|组合总和+不能有相同的组|
-|7.15|[131](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/131.%20Palindrome%20Partitioning(m).md)|||
+|7.15|[131](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/131.%20Palindrome%20Partitioning(m).md)|分割回文子串|
 
 
 
