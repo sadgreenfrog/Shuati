@@ -105,6 +105,8 @@ Track Shuati progress
 |7.15|[131](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/131.%20Palindrome%20Partitioning(m).md)|分割回文子串|
 ||[93](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/93.%20Restore%20IP%20Addresses(m).md)|复原ip地址*********没做出来|
 ||[78](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/78.%20Subsets(m).md)|求子集|
+||[90](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/90.%20Subsets%20II(m).md)|子集2+去重|
+
 
 
 
