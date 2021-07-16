@@ -109,6 +109,8 @@ Track Shuati progress
 ||[491](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/491.%20Increasing%20Subsequences(m).md)|(递增子序列)去重+单调递增判断+不能sort|
 ||[46](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/46.%20Permutations(m).md)|全排列|
 ||[47](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/47.%20Permutations%20II(m).md)|全排列+横向去重|
+|7.16|[332](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/332.%20Reconstruct%20Itinerary(m).md)|安排行程+dict+只找一条路线|
+
 
 
 
