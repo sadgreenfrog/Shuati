@@ -2,6 +2,7 @@
 Track Shuati progress 
 
 7.8 - 每天他妈的必须要做十个
+7.19 - 真的很难做到
 
 按照 https://github.com/youngyangyang04/leetcode-master/tree/master/problems 的顺序来刷题.
 
