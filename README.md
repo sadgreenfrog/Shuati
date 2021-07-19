@@ -116,6 +116,7 @@ Track Shuati progress
 |7.17|[746](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/746.%20Min%20Cost%20Climbing%20Stairs(e).md)|最小话费爬楼梯|
 ||[62](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/62.%20Unique%20Paths(m).md)|不同路径的数量|
 ||[63](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/63.%20Unique%20Paths%20II(m).md)|不同路径+障碍物|
+|7.19|[343](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/343.%20Integer%20Break(m).md)|整数拆分+注意起始点和dp[0,1]的意义|
 
 
 
