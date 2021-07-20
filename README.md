@@ -2,6 +2,7 @@
 Track Shuati progress 
 
 7.8 - 每天他妈的必须要做十个
+
 7.19 - 真的很难做到
 
 按照 https://github.com/youngyangyang04/leetcode-master/tree/master/problems 的顺序来刷题.
@@ -120,6 +121,8 @@ Track Shuati progress
 ||[96](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/96.%20Unique%20Binary%20Search%20Trees(m).md)|不同的二叉搜索树+很难的递归公式|
 ||[416](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/416.%20Partition%20Equal%20Subset%20Sum(m).md)|分割等和子集+一维背包数组*****|
 ||[300](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/300.%20Longest%20Increasing%20Subsequence(m).md)|最长上升子序列+注意总结状态方程|
+||[674](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/674.%20Longest%20Continuous%20Increasing%20Subsequence(e).md)|最长连续递增序列+一个for循环即可，因为是循环|
+
 
 
 
