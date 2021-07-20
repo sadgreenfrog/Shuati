@@ -122,6 +122,7 @@ Track Shuati progress
 ||[416](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/416.%20Partition%20Equal%20Subset%20Sum(m).md)|分割等和子集+一维背包数组*****|
 ||[300](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/300.%20Longest%20Increasing%20Subsequence(m).md)|最长上升子序列+注意总结状态方程|
 ||[674](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/674.%20Longest%20Continuous%20Increasing%20Subsequence(e).md)|最长连续递增序列+一个for循环即可，因为是循环|
+||[718](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/718.%20Maximum%20Length%20of%20Repeated%20Subarray(m).md)|最长重复子数组+注意res比较的地方|
 
 
 
