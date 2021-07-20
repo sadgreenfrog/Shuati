@@ -125,6 +125,8 @@ Track Shuati progress
 ||[718](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/718.%20Maximum%20Length%20of%20Repeated%20Subarray(m).md)|最长重复子数组+注意res比较的地方|
 ||[1143](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1143.%20Longest%20Common%20Subsequence(m).md)|最长公共子序列+不要求连续+相对顺序|
 |贪心算法|[455](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/455.%20Assign%20Cookies(e).md)|分发饼干+逆向遍历比较小孩|
+||[376](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/376.%20Wiggle%20Subsequence(m).md)|摆动序列+计算峰值节点|
+
 
 
 
