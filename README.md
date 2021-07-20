@@ -119,7 +119,8 @@ Track Shuati progress
 |7.19|[343](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/343.%20Integer%20Break(m).md)|整数拆分+注意起始点和dp[0,1]的意义|
 ||[96](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/96.%20Unique%20Binary%20Search%20Trees(m).md)|不同的二叉搜索树+很难的递归公式|
 ||[416](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/416.%20Partition%20Equal%20Subset%20Sum(m).md)|分割等和子集+一维背包数组*****|
-||||
+||[300](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/300.%20Longest%20Increasing%20Subsequence(m).md)|最长上升子序列+注意总结状态方程|
+
 
 
 
