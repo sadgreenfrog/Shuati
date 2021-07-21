@@ -127,6 +127,8 @@ Track Shuati progress
 |贪心算法|[455](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/455.%20Assign%20Cookies(e).md)|分发饼干+逆向遍历比较小孩|
 ||[376](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/376.%20Wiggle%20Subsequence(m).md)|摆动序列+计算峰值节点|
 ||[53](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/53.%20Maximum%20Subarray(e).md)|最大子序和+continues|
+|前200高频题|[1](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1.%20Two%20Sum(e).md)|two sum+brute force+dict|
+||[8]||
 
 
 
