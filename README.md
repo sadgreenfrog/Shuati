@@ -128,7 +128,16 @@ Track Shuati progress
 ||[376](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/376.%20Wiggle%20Subsequence(m).md)|摆动序列+计算峰值节点|
 ||[53](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/53.%20Maximum%20Subarray(e).md)|最大子序和+continues|
 |前200高频题|[1](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1.%20Two%20Sum(e).md)|two sum+brute force+dict|
-||[8]||
+|7.21|[8](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/8.%20String%20to%20Integer%20(atoi)(m).md)|string->integer|
+||15||
+||20||
+||21||
+||28||
+||50||
+||56||
+||57||
+||65||
+||70||
 
 
 
