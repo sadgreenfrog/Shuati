@@ -129,11 +129,11 @@ Track Shuati progress
 ||[53](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/53.%20Maximum%20Subarray(e).md)|最大子序和+continues|
 |前200高频题|[1](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1.%20Two%20Sum(e).md)|two sum+brute force+dict|
 |7.21|[8](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/8.%20String%20to%20Integer%20(atoi)(m).md)|string->integer|
-||15||
-||20||
-||21||
-||28||
-||50||
+||15(https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/15.%203Sum.(e).md)|3sum+pointer/hashmap|
+||[20](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/20.%20Valid%20Parentheses(e).md)|valid parenthese + stack|
+||[21](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/21.%20Merge%20Two%20Sorted%20Lists(e).md)|merge 2 sorted list+linked list|
+||[28](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/28.%20Implement%20strStr()(e).md)|implement strstr()+三种方法|
+|7.22|50||
 ||56||
 ||57||
 ||65||
