@@ -133,7 +133,7 @@ Track Shuati progress
 ||[20](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/20.%20Valid%20Parentheses(e).md)|valid parenthese + stack|
 ||[21](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/21.%20Merge%20Two%20Sorted%20Lists(e).md)|merge 2 sorted list+linked list|
 ||[28](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/28.%20Implement%20strStr()(e).md)|implement strstr()+三种方法|
-|7.22|50||
+|7.22|[50](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/50.%20Pow(x%2C%20n)(m).md)|pow+recursive，注意截止条件|
 ||56||
 ||57||
 ||65||
