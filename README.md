@@ -139,7 +139,7 @@ Track Shuati progress
 ||65||
 ||[70](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/70.%20Climbing%20Stairs(e).md)|Climbing stairs+递推公式|
 ||[73](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/73.%20Set%20Matrix%20Zeroes(m).md)|set matrix+矩阵的行列操作需要两个loop|
-||[88]||
+|7.23|[88](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/88.%20Merge%20Sorted%20Array(e).md)||
 ||[98]||
 
 
