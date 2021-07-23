@@ -134,10 +134,13 @@ Track Shuati progress
 ||[21](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/21.%20Merge%20Two%20Sorted%20Lists(e).md)|merge 2 sorted list+linked list|
 ||[28](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/28.%20Implement%20strStr()(e).md)|implement strstr()+三种方法|
 |7.22|[50](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/50.%20Pow(x%2C%20n)(m).md)|pow+recursive，注意截止条件|
-||56||
-||57||
+||[56](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/56.%20Merge%20Intervals(m).md)|merge intervals+注意edge case,在一个loop里比较两个list，可以先初始化一个|
+||[57](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/57.%20Insert%20Interval(m).md)|insert interval + 3种情况 go through每个元素|
 ||65||
-||70||
+||[70](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/70.%20Climbing%20Stairs(e).md)|Climbing stairs+递推公式|
+||[73](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/73.%20Set%20Matrix%20Zeroes(m).md)|set matrix+矩阵的行列操作需要两个loop|
+||[88]||
+||[98]||
 
 
 
