@@ -140,6 +140,8 @@ Track Shuati progress
 ||[73](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/73.%20Set%20Matrix%20Zeroes(m).md)|set matrix+矩阵的行列操作需要两个loop|
 |7.23|[88](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/88.%20Merge%20Sorted%20Array(e).md)|merge sorted array + 2 pointers*****特殊情况过不去|
 ||[98](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/98.%20Validate%20Binary%20Search%20Tree(m).md)|validate binary search tree+迭代+递归 ****|
+||[125](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/125.%20Valid%20Palindrome(e).md)|valid palendrome+ Python 中常用处理字符串的相关函数|
+|7.24|||
 
 
 
