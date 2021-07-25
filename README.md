@@ -142,7 +142,8 @@ Track Shuati progress
 ||[98](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/98.%20Validate%20Binary%20Search%20Tree(m).md)|validate binary search tree+迭代+递归 ****|
 ||[125](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/125.%20Valid%20Palindrome(e).md)|valid palendrome+ Python 中常用处理字符串的相关函数|
 |7.24|[Graph Structure](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/Graph%20Structure.md)|图的结构以及一个应用|
-||[127](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/127.%20Word%20Ladder(h).md)|graph + bfs|
+||[127](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/127.%20Word%20Ladder(h).md)|graph + preoposess+bfs 太难了|
+|7.25|||
 
 
 
