@@ -146,8 +146,13 @@ Track Shuati progress
 |7.25|[65](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/65.%20Valid%20Number(H).md)|状态转移|
 ||[Linked List](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/Linked%20List.md)|Implement+reverse|
 ||[2](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/2.%20Add%20Two%20Numbers(m).md)|Add 2 numbers +Linked list+edge cases|
-|7.26|||
-
+|7.26|[12](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/12.%20Integer%20to%20Roman(m).md)|Integer to Roman + Math Trick|
+||[13](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/13.%20Roman%20to%20Integer(e).md)|roman to interger + dictionary|
+||[22](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/22.%20Generate%20Parentheses(m).md)|Generate Parentheses + backtracking 套路|
+||[23]||
+||[24]||
+||[27]||
+||[46]||
 
 
 
