@@ -150,7 +150,7 @@ Track Shuati progress
 ||[13](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/13.%20Roman%20to%20Integer(e).md)|roman to interger + dictionary|
 ||[22](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/22.%20Generate%20Parentheses(m).md)|Generate Parentheses + backtracking 套路|
 ||[24](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/24.%20Swap%20Nodes%20in%20Pairs(m).md)|swap nodes in pairs + 递归+迭代|
-|7.27|[27]||
+|7.27|[27](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/27.%20Remove%20Element(e).md)|remove elements+2pointers|
 ||[46]||
 ||[23]||
 
