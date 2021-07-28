@@ -153,7 +153,13 @@ Track Shuati progress
 |7.27|[27](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/27.%20Remove%20Element(e).md)|remove elements+2pointers|
 |7.28|[heap & priority queue](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/Heap%20&%20Merge%202%20sorted%20lists&%20k%20sorted%20lists.md)|heap函数的使用和实现方法|
 |7.28|[23](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/23.%20Merge%20k%20Sorted%20Lists(h).md)|merge k sorted lists + min-heap|
-||[46]||
+||[46](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/46.%20Permutations(m).md)|permutation + 回溯穷举|
+||[49]||
+||[67]||
+||[69]||
+||[77]||
+||[78]||
+||[79]||
 
 
 
