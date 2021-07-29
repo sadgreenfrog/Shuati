@@ -158,7 +158,7 @@ Track Shuati progress
 ||[67](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/67.%20Add%20Binary(e).md)|add binary + 模拟|
 |7.29|[69](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/69.%20Sqrtx.md)|sqrt(x) + binary search注意[left,right]的区间定义|
 ||[77](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/77.%20Combinations(m).md)|combinations + backtrack+startindex|
-||[78]||
+||[78](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/78.%20Subsets(m).md)|combination2 + backtrack + no termination|
 ||[79]||
 
 
