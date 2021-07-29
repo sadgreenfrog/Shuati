@@ -159,7 +159,7 @@ Track Shuati progress
 |7.29|[69](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/69.%20Sqrtx.md)|sqrt(x) + binary search注意[left,right]的区间定义|
 ||[77](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/77.%20Combinations(m).md)|combinations + backtrack+startindex|
 ||[78](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/78.%20Subsets(m).md)|subsets + backtrack + no termination|
-||[79]||
+||[79](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/79.%20Word%20Search(m).md)|word search+dfs,上下左右找路径，但是见鬼了|
 
 
 
