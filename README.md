@@ -156,7 +156,7 @@ Track Shuati progress
 ||[46](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/46.%20Permutations(m).md)|permutation + 回溯穷举|
 ||[49](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/49.%20Group%20Anagrams(m).md)|group anagrams + dictionary(count?????)|
 ||[67](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/67.%20Add%20Binary(e).md)|add binary + 模拟|
-|7.29|[69]||
+|7.29|[69](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/69.%20Sqrtx.md)|sqrt(x) + binary search注意[left,right]的区间定义|
 ||[77]||
 ||[78]||
 ||[79]||
