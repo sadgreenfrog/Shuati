@@ -163,7 +163,7 @@ Track Shuati progress
 ||[129](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/129.%20Sum%20Root%20to%20Leaf%20Numbers(m).md)|Sum Root to Leaf Numbers + DFS + Traverse to leaf|
 |7.30|[91](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/91.%20Decode%20Ways(m).md)|Decode Ways + Dynamic Programming|
 ||[102](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal(m).md)|binary tree level order traversal + dfs/bfs|
-||[131]||
+||[131](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/131.%20Palindrome%20Partitioning(m).md)|Palindrome Partition + recursive + 切割|
 ||[4]||
 ||[7]||
 ||[10]||
