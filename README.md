@@ -169,7 +169,7 @@ Track Shuati progress
 ||[4]||
 ||[17](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(m).md)|Letter Combinations + Recursive + Index to dicide the layer|
 ||[19](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List(m).md)|Remove Nth Node from end + 2 pointers|
-||[26(https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/26.%20Remove%20Duplicates%20from%20Sorted%20Array(e).md)]|Remove duplicates from sorted array + 2 pointers|
+||[26](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/26.%20Remove%20Duplicates%20from%20Sorted%20Array(e).md)|Remove duplicates from sorted array + 2 pointers|
 ||[29]||
 ||[33]||
 ||[34]||
