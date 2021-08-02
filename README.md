@@ -167,7 +167,7 @@ Track Shuati progress
 ||[7](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/7.%20Reverse%20Integer(e).md)|Reverse Integer + Math Mimic + Limitation|
 |8.2|[10]||
 ||[4]||
-||[17]||
+||[17](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(m).md)|Letter Combinations + Recursive + Index to dicide the layer|
 ||[19]||
 ||[26]||
 ||[29]||
