@@ -164,9 +164,15 @@ Track Shuati progress
 |7.30|[91](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/91.%20Decode%20Ways(m).md)|Decode Ways + Dynamic Programming|
 ||[102](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal(m).md)|binary tree level order traversal + dfs/bfs|
 ||[131](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/131.%20Palindrome%20Partitioning(m).md)|Palindrome Partition + recursive + 切割|
-||[4]||
 ||[7](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/7.%20Reverse%20Integer(e).md)|Reverse Integer + Math Mimic + Limitation|
-||[10]||
+|8.2|[10]||
+||[4]||
+||[17]||
+||[19]||
+||[26]||
+||[29]||
+||[33]||
+||[34]||
 
 
 
