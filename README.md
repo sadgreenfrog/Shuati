@@ -170,7 +170,7 @@ Track Shuati progress
 ||[26](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/26.%20Remove%20Duplicates%20from%20Sorted%20Array(e).md)|Remove duplicates from sorted array + 2 pointers|
 ||[29](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/29.%20Divide%20Two%20Integers(m).md)|Divide 2 integers + Binary Search|
 |8.2|[10]||
-||[4]||
+||[4](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays(h).md)|Median of Two Sorted Array + Math 巧做|
 ||[33]||
 ||[34]||
 
