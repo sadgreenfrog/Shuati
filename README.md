@@ -174,11 +174,11 @@ Track Shuati progress
 ||[33](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array(m).md)|Search in Rotated Sorted Array + Binary Search in seperate sorted array|
 |8.4|[34](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|First Position and Last Position in Sorted Array + Binary search + index to indicate different siutation|
 ||[39](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/39.%20Combination%20Sum(m).md)|Combination Sum + index不需要更新 + 回溯|
+||[53](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/53.%20Maximum%20Subarray(e).md)|Max Subarray + dp|
 ||[43]||
 ||[44]||
 ||[51]||
 ||[52]||
-||[53]||
 
 
 
