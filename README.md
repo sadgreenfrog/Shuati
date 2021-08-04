@@ -172,7 +172,7 @@ Track Shuati progress
 |8.2|[10](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/10.%20Regular%20Expression%20Matching(h).md)|regular expression matching + brute force + dp 特别难****|
 ||[4](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays(h).md)|Median of Two Sorted Array + Math 巧做|
 ||[33](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array(m).md)|Search in Rotated Sorted Array + Binary Search in seperate sorted array|
-||[34]||
+|8.4|[34](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|First Position and Last Position in Sorted Array + Binary search + index to indicate different siutation|
 
 
 
