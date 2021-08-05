@@ -178,8 +178,8 @@ Track Shuati progress
 ||[62](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/62.%20Unique%20Paths(m).md)|Unique path + dp, 累计过程|
 ||[63](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/63.%20Unique%20Paths%20II(m).md)|Unique path2 + dp, 有条件的累积|
 ||[64](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/64.%20Minimum%20Path%20Sum(m).md)|Minimum Path Sum + dp + 注意初始化，dp定义和限定条件|
-|8.5|[74]||
-||[81]||
+|8.5|[74](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/74.%20Search%20a%202D%20Matrix(m).md)|Seacrh a 2D Matrix + binary search 背出来区间+rl调节|
+||[81](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/81.%20Search%20in%20Rotated%20Sorted%20Array%20II(m).md)|Search in Rotated Array 2 + bs + duplicate的影响和限定条件|
 ||[82]||
 ||[83]||
 ||[86]||
