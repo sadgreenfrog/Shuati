@@ -175,12 +175,19 @@ Track Shuati progress
 |8.4|[34](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|First Position and Last Position in Sorted Array + Binary search + index to indicate different siutation|
 ||[39](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/39.%20Combination%20Sum(m).md)|Combination Sum + index不需要更新 + 回溯|
 ||[53](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/53.%20Maximum%20Subarray(e).md)|Max Subarray + dp|
-||[43]||
-||[44]||
-||[51]||
-||[52]||
-
-
+||[62](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/62.%20Unique%20Paths(m).md)|Unique path + dp, 累计过程|
+||[63](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/63.%20Unique%20Paths%20II(m).md)|Unique path2 + dp, 有条件的累积|
+||[64](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/64.%20Minimum%20Path%20Sum(m).md)|Minimum Path Sum + dp + 注意初始化，dp定义和限定条件|
+|8.5|[74]||
+||[81]||
+||[82]||
+||[83]||
+||[86]||
+||[93]||
+||[94]||
+||[103]||
+||[105]||
+||[106]||
 
 
 
