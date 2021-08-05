@@ -182,7 +182,7 @@ Track Shuati progress
 ||[81](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/81.%20Search%20in%20Rotated%20Sorted%20Array%20II(m).md)|Search in Rotated Array 2 + bs + duplicate的影响和限定条件|
 ||[82](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II(m).md)|Remove  duplicate from Sorted List2 + linked list + 遇到重复进入while循环删除重复量|
 ||[83](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List(e).md)|Remove duplicates from sorted list + 遇到重复移动next指针|
-||[86]||
+||[86](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/86.%20Partition%20List(m).md)|Partition List + linked list + 分为两个分开的链表再合并起来，虚拟头+指针移动|
 ||[93]||
 ||[94]||
 ||[103]||
