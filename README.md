@@ -185,8 +185,8 @@ Track Shuati progress
 ||[86](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/86.%20Partition%20List(m).md)|Partition List + linked list + 分为两个分开的链表再合并起来，虚拟头+指针移动|
 ||[93](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/93.%20Restore%20IP%20Addresses(m).md)|Restore IP address + 分割问题用回溯 + 注意横向纵向遍历 + string join in []|
 ||[94](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/94.%20Binary%20Tree%20Inorder%20Traversal(e).md)|Inorder Traverse + 迭代+递归，要熟悉|
-||[103]||
-||[105]||
+|8.6|[103](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal(m).md)|Tree Zigzag level Order + level traverse + array reverse|
+||[105](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal(e).md)|Construct Binary Tree preorder and inorder + 递归 + 没有迭代，太难了|
 ||[106]||
 
 
