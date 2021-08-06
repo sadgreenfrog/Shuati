@@ -187,12 +187,14 @@ Track Shuati progress
 ||[94](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/94.%20Binary%20Tree%20Inorder%20Traversal(e).md)|Inorder Traverse + 迭代+递归，要熟悉|
 |8.6|[103](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal(m).md)|Tree Zigzag level Order + level traverse + array reverse|
 ||[105](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal(e).md)|Construct Binary Tree preorder and inorder + 递归 + 没有迭代，太难了|
-||[106]||
-
-
-
-
-
+||[106](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal(e).md)|Construct Binary tree inorder and postorder + 递归|
+||[108]||
+||[109]||
+||[112]||
+||[114]||
+||[116]||
+||[128]||
+||[130]||
 
 
 
