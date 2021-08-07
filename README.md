@@ -192,7 +192,8 @@ Track Shuati progress
 ||[106](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal(e).md)|Construct Binary tree inorder and postorder + 递归|
 ||[108](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree(e).md)|Convert Sorted Array to BST + Recursion|
 ||[109](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree(m).md)|Convert Sorted List to BST + Recursion + 和array处理方式一样，但是left划分为什么到mid,不是mid-1？|
-||[112]||
+|Summary|166 P|142 Q|
+|8.7|[112]||
 ||[114]||
 ||[116]||
 ||[128]||
