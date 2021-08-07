@@ -193,8 +193,8 @@ Track Shuati progress
 ||[108](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree(e).md)|Convert Sorted Array to BST + Recursion|
 ||[109](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree(m).md)|Convert Sorted List to BST + Recursion + 和array处理方式一样，但是left划分为什么到mid,不是mid-1？|
 |Summary|166 P|142 Q|
-|8.7|[112]||
-||[114]||
+|8.7|[112](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/112.%20Path%20Sum(e).md)|Path Sum, 非常经典，四种写法,dfs+回溯+queue+stack，不同的方式遍历树，要常看|
+||[114](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List(m).md)|Flatten Binary Tree to Linked List + 迭代/递归前序遍历 + 重新构造list|
 ||[116]||
 ||[128]||
 ||[130]||
