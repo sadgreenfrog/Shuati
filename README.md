@@ -198,8 +198,16 @@ Track Shuati progress
 ||[116](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node(m).md)|Populating Next Right Pointers in each Node + 层序遍历|
 |7.8|[128](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/128.%20Longest%20Consecutive%20Sequence(m).md)|Longest consecutive sequence + 模拟思路|
 ||[130](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/130.%20Surrounded%20Regions(m).md)|Surrounded Regions + 图的联通搜索问题 + bfs,bfs非递归,dfs,dfs非递归,并查集|
-
-
+||[3]||
+||[5]||
+||[9]||
+||[11]||
+||[18]||
+||[31]||
+||[35]||
+||[36]||
+||[38]||
+||[40]||
 
 
 
