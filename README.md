@@ -195,9 +195,10 @@ Track Shuati progress
 |Summary|166 P|142 Q|
 |8.7|[112](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/112.%20Path%20Sum(e).md)|Path Sum, 非常经典，四种写法,dfs+回溯+queue+stack，不同的方式遍历树，要常看|
 ||[114](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List(m).md)|Flatten Binary Tree to Linked List + 迭代/递归前序遍历 + 重新构造list|
-||[116]||
-||[128]||
-||[130]||
+||[116](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node(m).md)|Populating Next Right Pointers in each Node + 层序遍历|
+|7.8|[128](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/128.%20Longest%20Consecutive%20Sequence(m).md)|Longest consecutive sequence + 模拟思路|
+||[130](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/130.%20Surrounded%20Regions(m).md)|Surrounded Regions + 图的联通搜索问题 + bfs,bfs非递归,dfs,dfs非递归,并查集|
+
 
 
 
