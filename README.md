@@ -202,10 +202,10 @@ Track Shuati progress
 |8.9|[5](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/5.%20Longest%20Palindromic%20Substring(m).md)|Longest Palindromic substring + 中心扩展法|
 ||[9](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/9.%20Palindrome%20Number(e).md)|Palindrome Number + Math|
 ||[11](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/11.%20Container%20With%20Most%20Water(m).md)|Container with most water + 2 pointer 贪心算法的感觉？|
-||[18]||
-||[31]||
-||[35]||
-||[36]||
+|8.10|[18](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/18.%204Sum(m).md)|4SUM + 2 for loop + 2 pointers, case[22222]没有过*****|
+||[31](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/31.%20Next%20Permutation(m).md)|Next Permutation + Math 从后往前遍历+比较|
+||[35](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/35.%20Search%20Insert%20Position.md)|Search Insert Position +  Binary search + bs很全的总结|
+||[36](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/36.%20Valid%20Sudoku(m).md)|Valid Sudoku + 3 hashmap- set|
 ||[38]||
 ||[40]||
 
