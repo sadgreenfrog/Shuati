@@ -206,7 +206,7 @@ Track Shuati progress
 ||[31](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/31.%20Next%20Permutation(m).md)|Next Permutation + Math 从后往前遍历+比较|
 ||[35](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/35.%20Search%20Insert%20Position.md)|Search Insert Position +  Binary search + bs很全的总结|
 ||[36](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/36.%20Valid%20Sudoku(m).md)|Valid Sudoku + 3 hashmap- set|
-||[38]||
+||[38](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/38.%20Count%20and%20Say(m).md)|Count and Say + 2 pointer的感觉进行比较， 挺难的|
 ||[40]||
 
 
