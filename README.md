@@ -212,8 +212,8 @@ Track Shuati progress
 ||[40](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/40.%20Combination%20Sum%20II(m).md)|Combination sum2 + backtrack + 去重|
 |8.11|[45](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/45.%20Jump%20Game%20II(m).md)|Jump Game2 + Greedy + 从前往后从后往前|
 ||[47](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/47.%20Permutations%20II(m).md)|permutation + 同层去重|
-||[48]||
-||[54]||
+||[48](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/48.%20Rotate%20Image(m).md)|Rotate Image + 矩阵的翻转和操作|
+||[54](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|Spiral Matrix + 注意edge cases|
 ||[55]||
 ||[59]||
 ||[61]||
