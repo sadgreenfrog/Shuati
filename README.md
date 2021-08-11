@@ -7,6 +7,8 @@ Track Shuati progress
 
 8.6 - 感觉每天最多七个了
 
+8.11 - 每天5个不能再少了
+
 按照 https://github.com/youngyangyang04/leetcode-master/tree/master/problems 的顺序来刷题.
 
 |日期|题号|感想|
