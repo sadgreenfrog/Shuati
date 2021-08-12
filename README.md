@@ -218,7 +218,7 @@ Track Shuati progress
 ||[59](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/59.%20Spiral%20MatrixII(m).md)|==54|
 |8.12|[61](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/61.%20Rotate%20List(m).md)|Rotate List + 暴力解法 + 闭合为环|
 ||[66](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/66.%20Plus%20One(e).md)|Plus One + 简单题目更要认真，带入实例一遍过。|
-||[75]||
+||[75](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/75.%20Sort%20Colors(m).md)|Sort Colors + 单指针 双针针|
 ||[80]||
 ||[89]||
 ||[90]||
