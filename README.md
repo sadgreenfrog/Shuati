@@ -218,3 +218,13 @@ Track Shuati progress
 ||[59](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/59.%20Spiral%20MatrixII(m).md)|==54|
 ||[61]||
 ||[66]||
+||[75]||
+||[80]||
+||[89]||
+||[90]||
+||[92]||
+||[97]||
+||[99]||
+||[101]||
+||[110]||
+||[113]||
