@@ -216,7 +216,7 @@ Track Shuati progress
 ||[54](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|Spiral Matrix + 注意edge cases|
 ||[55](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/55.%20Jump%20Game(m).md)|Jump Game + Recursive + memorization + Greedy, 回溯return false 什么意思？？？|
 ||[59](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/59.%20Spiral%20MatrixII(m).md)|==54|
-||[61]||
+|8.12|[61](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/61.%20Rotate%20List(m).md)|Rotate List + 暴力解法 + 闭合为环|
 ||[66]||
 ||[75]||
 ||[80]||
