@@ -220,7 +220,7 @@ Track Shuati progress
 ||[66](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/66.%20Plus%20One(e).md)|Plus One + 简单题目更要认真，带入实例一遍过。|
 ||[75](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/75.%20Sort%20Colors(m).md)|Sort Colors + 单指针 双针针|
 ||[80](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II(m).md)|Remove Duplicates from Soerted Array 2 + 26一样的套路，中间隔了1，这题隔了2|
-|8.12|[89]||
+|8.13|[89]||
 ||[90]||
 ||[92]||
 ||[97]||
