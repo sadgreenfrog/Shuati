@@ -1,0 +1,38 @@
+## 89. Gray Code
+
+https://leetcode.com/problems/remove-element/
+
+My Solution
+
+```python
+class Solution:
+    def grayCode(self, n: int) -> List[int]:
+        if n == 0:
+            return [0]
+        if n == 1:
+            return [0,1]
+        def backtrack(k,path,res):
+            if k == n:
+                return res.append(path[:])
+            temp = []
+            for i in range(0,len(path),2):
+                temp.append(path[i]*2+0)
+                temp.append(path[i]*2+1)
+                temp.append(path[i+1]*2+1)
+                temp.append(path[i+1]*2+0)
+            backtrack(k+1,temp[:],res)
+            
+        path = [0,1]
+        res = []
+        backtrack(1,path,res)
+        return res.pop()
+```
+## 解题思路和想法
+一开始用的穷举，但是因为没有加入条件，出来的顺序都是打乱的。
+
+画出树状图：
+
+1、每次多一位，有两种选择，0或1，为保证前后只改变一位数字，可以先0 1 在 1 0，从n >1 开始
+
+2、画出树状图，进行分析，每次进行添加总是按照0110的顺序进行
+
