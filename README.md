@@ -222,7 +222,8 @@ Track Shuati progress
 ||[80](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II(m).md)|Remove Duplicates from Soerted Array 2 + 26一样的套路，中间隔了1，这题隔了2|
 |8.13|[89](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/89.%20Gray%20Code)|gray code + 不会做抄的*****|
 ||[90](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/90.%20Subsets%20II(m).md)|Subsets + 去重dfs|
-||[92]||
+||[dynamic programming](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/Dynamic%20Programming.md)||
+|8.15|[92]||
 ||[97]||
 ||[99]||
 ||[101]||
