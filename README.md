@@ -222,9 +222,9 @@ Track Shuati progress
 ||[80](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II(m).md)|Remove Duplicates from Soerted Array 2 + 26一样的套路，中间隔了1，这题隔了2|
 |8.13|[89](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/89.%20Gray%20Code)|gray code + 不会做抄的*****|
 ||[90](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/90.%20Subsets%20II(m).md)|Subsets + 去重dfs|
-||[dynamic programming](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/Dynamic%20Programming.md)||
+||[dynamic programming](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/Dynamic%20Programming.md)|dp是rec的一种,rec -> rec+memo -> dp 有循序渐进的过程|
 |8.15|[92](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/92.%20Reverse%20Linked%20List%20II(m).md)|Reversed Linked List2 + Reverse during a section + repoint注意细节，linked list题目要画图|
-||[97]||
+||[97](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/97.%20Interleaving%20String(m).md)|Interleaving String + Recursive + Re& Memo|
 ||[99]||
 ||[101]||
 ||[110]||
