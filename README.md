@@ -9,6 +9,8 @@ Track Shuati progress
 
 8.11 - 每天5个不能再少了
 
+8.16 - 有些medium还是太难了，easy4,medium3每天。
+
 按照 https://github.com/youngyangyang04/leetcode-master/tree/master/problems 的顺序来刷题.
 
 |日期|题号|感想|
@@ -224,8 +226,14 @@ Track Shuati progress
 ||[90](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/90.%20Subsets%20II(m).md)|Subsets + 去重dfs|
 ||[dynamic programming](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/Dynamic%20Programming.md)|dp是rec的一种,rec -> rec+memo -> dp 有循序渐进的过程|
 |8.15|[92](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/92.%20Reverse%20Linked%20List%20II(m).md)|Reversed Linked List2 + Reverse during a section + repoint注意细节，linked list题目要画图|
-||[97](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/97.%20Interleaving%20String(m).md)|Interleaving String + Recursive + Re& Memo|
+||[97](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/97.%20Interleaving%20String(m).md)|Interleaving String + Recursive + Re& Memo ******需要dp solution|
+|8.16|[1](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1.%20Two%20Sum(e).md)||
+||[121](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock(e).md)|best time to buy/sell stock + 2 for loop + 1 for loop|
+||[20](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/20.%20Valid%20Parentheses(e).md)||
+||[7](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/7.%20Reverse%20Integer(e).md)||
+|e|[53]||
 ||[99]||
 ||[101]||
 ||[110]||
+
 ||[113]||
