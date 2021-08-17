@@ -231,9 +231,9 @@ Track Shuati progress
 ||[121](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock(e).md)|best time to buy/sell stock + 2 for loop + 1 for loop|
 ||[20](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/20.%20Valid%20Parentheses(e).md)||
 ||[7](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/7.%20Reverse%20Integer(e).md)||
-|e|[53]||
+||[53]|递归算法回炉重造|
+
 ||[99]||
 ||[101]||
 ||[110]||
-
 ||[113]||
