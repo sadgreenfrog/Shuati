@@ -9,7 +9,7 @@ Track Shuati progress
 
 8.11 - 每天5个不能再少了
 
-8.16 - 有些medium还是太难了，easy4,medium3每天。
+8.16 - 有些medium还是太难了，先刷完high frequent easy。
 
 按照 https://github.com/youngyangyang04/leetcode-master/tree/master/problems 的顺序来刷题.
 
@@ -231,9 +231,14 @@ Track Shuati progress
 ||[121](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock(e).md)|best time to buy/sell stock + 2 for loop + 1 for loop|
 ||[20](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/20.%20Valid%20Parentheses(e).md)||
 ||[7](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/7.%20Reverse%20Integer(e).md)||
-||[53]|递归算法回炉重造|
+||[53]|递归算法需要回炉重造|
+|8.17|[953](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/953.%20Verifying%20an%20Alien%20Dictionary(e).md)|Verify an AlienDict + 1 loop + hashmap|
+||[937](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/937.%20Reorder%20Data%20in%20Log%20Files(e).md)|熟悉各种函数调用, lambda sort + isalpha() + string|
+||[14]||
+||[680]||
+||[696]||
+||[706]||
+||[13]||
+||[21]||
+||[1822]||
 
-||[99]||
-||[101]||
-||[110]||
-||[113]||
