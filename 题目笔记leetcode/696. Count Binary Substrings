@@ -1,0 +1,56 @@
+## 696. Count Binary Substrings
+
+https://leetcode.com/problems/count-binary-substrings/
+
+My Solution
+
+```python
+#---------------Bad Solution--------------------#
+class Solution:
+    def countBinarySubstrings(self, s: str) -> int:
+        # 1. Same number of 1 and 0. 2. Group together 
+        # Corner case
+        if not s: return 0
+        count = 0  # return value
+        # Iteration start
+        for i in range(len(s)-1):
+            a = 0 # Count 1st number
+            b = 0 # Count 2nd number
+            x = s[i]
+            j = i
+        # Counting process
+            for j in range(i, len(s)-1):
+                if s[j] != x and s[j+1] !=x: b+=1
+                if s[j] != x and (s[j + 1] == x or j+1 == len(s)-1): 
+                    b+=1
+                    break 
+                if s[j] == x: a += 1
+            if a <= b: count += 1
+        return count
+ #-----------------------Group by Char-----------------------#
+ class Solution(object):
+    def countBinarySubstrings(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        groups = [1]
+        for i in range(1, len(s)):
+            if s[i] != s[i-1]:
+                groups.append(1)
+            else:
+                groups[-1] += 1
+        res = 0
+        for i in range(1,len(groups)):
+            res += min(groups[i-1], groups[i])
+        return res
+```
+
+## 解题思路和想法
+1. Intuitive Thought: Start with the first char in string, If next one still the same, keep going and count the occurance a. If it's not, counting the occurance of
+the new one b until it's change. If b >= a, find one. If not, fail. Go to the next iteration.
+
+Too much edge cases, bad code, not pass.
+
+2. Group by Character: We can convert the string s into an array groups that present the length of same-character contiguous blocks within the string.E.g. 
+a = "110001111000000", then groups = [2,3,4,5]
