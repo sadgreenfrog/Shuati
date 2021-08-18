@@ -68,6 +68,17 @@ on recursive calls.
 
 https://medium.com/@mitrovic.aleksandar/the-ultimate-guide-to-dynamic-programming-65865ef7ec5b
 
+## Recursion递归总结：
+
+写递归需要：
+1. 找到问题与子问题的关系，且子问题通常更简单。
+2. 需存在终止条件，且子问题最后能走到终止条件。
+
+找递归的时候，总是对递归过程很迷糊，总觉得想不清楚，需要用一组数据对着代码一句一句去检验。
+
+找准函数的定义和return，然后找推导公式式和终止条件。
+
+
 
 
 
