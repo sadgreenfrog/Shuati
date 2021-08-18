@@ -235,7 +235,7 @@ Track Shuati progress
 |8.17|[953](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/953.%20Verifying%20an%20Alien%20Dictionary(e).md)|Verify an AlienDict + 1 loop + hashmap|
 ||[937](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/937.%20Reorder%20Data%20in%20Log%20Files(e).md)|熟悉各种函数调用, lambda sort + isalpha() + string|
 ||[14]||
-||[680]||
+||[680](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/680.%20Valid%20Palindrome%20II(e).md)|valid palindrome 2 + 2 pointers|
 ||[696]||
 ||[706]||
 ||[13]||
