@@ -245,4 +245,4 @@ Track Shuati progress
 ||[412](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/412.%20Fizz%20Buzz(e).md)|FizzBuzz + 简单判断|
 ||[70](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/70.%20Climbing%20Stairs(e).md)|climbing stairs 锻炼各种recursive方法的函数定义，return值和参数, 3种方法|
 ||[1480](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1480.%20Running%20Sum%20of%201d%20Array(e).md)|简单for循环|
-||[67]||
+||[67](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/67.%20Add%20Binary(e).md)|binary -> integer -> binary|
