@@ -241,9 +241,8 @@ Track Shuati progress
 ||[13](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/13.%20Roman%20to%20Integer(e).md)|roman to integer + 如果l<r,则减，从后往前看|
 ||[21](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/21.%20Merge%20Two%20Sorted%20Lists(e).md)|merge two sorted linked list + dummyhead|
 ||[1822](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array(e).md)||
-|8.19|[1086]||
-||[88]||
-||[412]||
-||[70]||
-||[1480]||
+|8.19|[88](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/88.%20Merge%20Sorted%20Array(e).md)|merge 2 sorted array,缝补又一年，从前到后从后到前，各种special case|
+||[412](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/412.%20Fizz%20Buzz(e).md)|FizzBuzz + 简单判断|
+||[70](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/70.%20Climbing%20Stairs(e).md)|climbing stairs 锻炼各种recursive方法的函数定义，return值和参数, 3种方法|
+||[1480](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1480.%20Running%20Sum%20of%201d%20Array(e).md)|简单for循环|
 ||[67]||
