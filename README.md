@@ -241,8 +241,7 @@ Track Shuati progress
 ||[13](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/13.%20Roman%20to%20Integer(e).md)|roman to integer + 如果l<r,则减，从后往前看|
 ||[21](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/21.%20Merge%20Two%20Sorted%20Lists(e).md)|merge two sorted linked list + dummyhead|
 ||[1822](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array(e).md)||
-|8.19|[175]||
-||[1086]||
+|8.19|[1086]||
 ||[88]||
 ||[412]||
 ||[70]||
