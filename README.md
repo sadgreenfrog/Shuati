@@ -247,7 +247,7 @@ Track Shuati progress
 ||[1480](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1480.%20Running%20Sum%20of%201d%20Array(e).md)|简单for循环|
 ||[67](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/67.%20Add%20Binary(e).md)|binary -> integer -> binary|
 ||[387](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/387.%20First%20Unique%20Character%20in%20a%20String(e).md)|first unique charater in string + hashmap/count(string)/counter(dic)|
-|8.20|[283]||
+|8.20|[283](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/283.%20Move%20Zeros.md)|move zeros + 如何移动某个number到后面|
 ||[122]||
 ||[125]||
 ||[193]||
