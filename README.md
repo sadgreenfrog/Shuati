@@ -248,10 +248,8 @@ Track Shuati progress
 ||[67](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/67.%20Add%20Binary(e).md)|binary -> integer -> binary|
 ||[387](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/387.%20First%20Unique%20Character%20in%20a%20String(e).md)|first unique charater in string + hashmap/count(string)/counter(dic)|
 |8.20|[283](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/283.%20Move%20Zeros.md)|move zeros + 如何移动某个number到后面|
-||[122]||
+||[122](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II(e).md)|sell buy stock multiple times, recursive不会|
 ||[125]||
 ||[193]||
-||[716]||
 ||[206]||
-||[359]||
 ||[9]||
