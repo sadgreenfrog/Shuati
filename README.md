@@ -252,6 +252,9 @@ Track Shuati progress
 |8.21|[58](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/58.%20Length%20of%20Last%20Word(e).md)|Length of last word + Some string manipulation|
 ||[100](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/100.%20Same%20Tree(e).md)|Same Tree + 3 ways to travser the tree|
 ||[110](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/110.%20Balanced%20Binary%20Tree(e).md)|balanced binary tree + 递归很难|
+|8.23|[119](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/119.%20Pascal's%20Triangle%20II)|Pascal'triangle2 + Bottom-up/ Top-down(dp) recursive method|
+||[118](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/118.%20Pascal's%20Triangle)|Pascal'triangle + maintain an array in each iteration|
+
 ||[125]||
 ||[193]||
 ||[206]||
