@@ -1,0 +1,66 @@
+## 
+118. Pascal's Triangle
+
+https://leetcode.com/problems/pascals-triangle/
+
+My Solution
+
+```python
+#---------------------Top - Down, 倒推1-------------------------#
+class Solution(object):
+    def generate(self, numRows):
+        if numRows == 1: return [[1]]
+        res = []
+        return self.rec(numRows, res)
+        return res
+    def rec(self, n, res):
+        if n == 2: 
+            res.append([1])
+            res.append([1,1])
+            return res
+        self.rec(n-1, res)
+        path = [1 for _ in range(n)]
+        last = res[-1]
+        for i in range(1,n-1):
+            path[i] = last[i-1] + last[i]
+        res.append(path)
+#---------------------Top - Down, 倒推2-------------------------#
+class Solution(object):
+    def generate(self, numRows):
+        if numRows == 1: return [[1]]
+        return self.helper(numRows)
+    def helper(self, n):
+        if n == 2:
+            res = [[1], [1,1]]
+            return res  
+        path = [1 for _ in range(n)]
+        # pay attention must define the res
+        res = self.helper(n-1)
+        last = res[-1]
+        for i in range(1, n-1):
+            path[i] = last[i] + last[i-1]
+        res.append(path)
+        return res
+        
+#-------------------------Bottom - up 正推----------------------------#
+class Solution:
+    def generate(self, rowIndex: int) -> List[int]:
+        if rowIndex == 1: return [[1]]
+        if rowIndex == 2: return [[1],[1,1]]
+        previous = [[1],[1,1]]
+        # Traverse from top to bottom
+        for i in range(3, rowIndex+1):
+            # Refresh previous DP array
+            dp = [1 for _ in range(i)]
+            last = previous[-1]
+            for j in range(1,i-1):
+                dp[j] = last[j-1] + last[j]
+            previous.append(dp)
+        return previous 
+```
+
+## 思路想法
+1. top-down recursion(倒推): Compared to the triangle 2, this problem need a more step to restore the previous path into result.
+
+2. bottom-up recursiove(正推): DP solution, start from the base case, then accumulate to up. The difference bettween previous problem is add one more step in each
+itsration: add the dp into res and update.
