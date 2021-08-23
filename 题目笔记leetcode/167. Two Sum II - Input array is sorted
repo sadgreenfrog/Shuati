@@ -1,0 +1,62 @@
+## 
+167. Two Sum II - Input array is sorted
+
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+My Solution
+
+```python
+#--------------------Hash Map-----------------------#
+class Solution(object):
+    def twoSum(self, numbers, target):
+        # Hashmap O(n)
+        hashmap = {}
+        for i, x in enumerate(numbers):
+            hashmap[x] = i        
+        for j, y in enumerate(numbers):
+            if target - y in hashmap:
+                return [j+1, hashmap[target-y]+1]
+#-----------------------Super Stupid, can't exceed-------------------------#
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        # Termination: len(path) == 2&sum == target: return [i,j] break 
+        # Return the indices
+        # Single layer: add the item into list, compare, pop
+        path = []
+        res = []
+        hashmap = {}
+        self.helper(numbers, 0, path, target, res)
+        return res
+    def helper(self, nums,startindex, path, target, res):
+        if len(path) == 2 and path[0][0] + path[1][0] == target:
+            res.append(path[0][1]+1)
+            res.append(path[1][1]+1)
+            return res
+        for i in range(startindex, len(nums)):
+            path.append([nums[i],i])
+            self.helper(nums, i+1, path, target,res)
+            path.pop()
+#------------------ 2 pointers-----------------------------#
+class Solution(object):
+    def twoSum(self, numbers, target):
+        # 2 pointers
+        # T:O(n) S:O(1)
+        n = len(numbers)
+        l, r = 0, n-1
+        while l < r: 
+            s = numbers[l] + numbers[r]
+            if s == target:
+                return [l+1, r+1]
+            elif s > target:
+                r -= 1
+            else:
+                l += 1
+```
+
+## 思路想法
+1. Intuitive solution: Use hash map to store the index and value of each item in input array. For each x in array, find if target-x in the array using hashmap.
+
+2. Just practise: recursive, can not pass.
+
+3. 2 pointers
+
