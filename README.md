@@ -237,7 +237,7 @@ Track Shuati progress
 ||[14](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/14.%20Longest%20Common%20Prefix(e).md)|Find common prefix, for loop + while!!!|
 ||[680](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/680.%20Valid%20Palindrome%20II(e).md)|valid palindrome 2 + 2 pointers|
 |8.18|[696](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/696.%20Count%20Binary%20Substrings)|Count Binary Substring + 没见过的group方法|
-||[706]|Design hashmap, 需要系统学习一下python函数构建|
+||[706]|Design hashmap, 需要系统学习一下python函数构建*******|
 ||[13](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/13.%20Roman%20to%20Integer(e).md)|roman to integer + 如果l<r,则减，从后往前看|
 ||[21](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/21.%20Merge%20Two%20Sorted%20Lists(e).md)|merge two sorted linked list + dummyhead|
 ||[1822](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array(e).md)||
@@ -248,14 +248,17 @@ Track Shuati progress
 ||[67](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/67.%20Add%20Binary(e).md)|binary -> integer -> binary|
 ||[387](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/387.%20First%20Unique%20Character%20in%20a%20String(e).md)|first unique charater in string + hashmap/count(string)/counter(dic)|
 |8.20|[283](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/283.%20Move%20Zeros.md)|move zeros + 如何移动某个number到后面|
-||[122](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II(e).md)|sell buy stock multiple times, recursive不会|
+||[122](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II(e).md)|sell buy stock multiple times, recursive 需要两个for loop去找几对pair,难点|
 |8.21|[58](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/58.%20Length%20of%20Last%20Word(e).md)|Length of last word + Some string manipulation|
 ||[100](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/100.%20Same%20Tree(e).md)|Same Tree + 3 ways to travser the tree|
 ||[110](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/110.%20Balanced%20Binary%20Tree(e).md)|balanced binary tree + 递归很难|
 |8.23|[119](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/119.%20Pascal's%20Triangle%20II)|Pascal'triangle2 + Bottom-up/ Top-down(dp) recursive method|
-||[118](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/118.%20Pascal's%20Triangle)|Pascal'triangle + maintain an array in each iteration|
-
-||[125]||
+||[118](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/118.%20Pascal's%20Triangle)|Pascal'triangle + maintain an array in each iteration
+||[125](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/125.%20Valid%20Palindrome(e).md)|string function summary|
+||[160](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/160.%20Intersection%20of%20Two%20Linked%20Lists(e).md)|linked list can use set to restore|
+||[167](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|2 SUM2 + 2 pointers/hashmap|
+||[168]||
 ||[193]||
 ||[206]||
 ||[9]||
+
