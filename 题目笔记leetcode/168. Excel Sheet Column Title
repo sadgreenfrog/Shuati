@@ -1,0 +1,31 @@
+## 
+168. Excel Sheet Column Title
+
+https://leetcode.com/problems/excel-sheet-column-title/
+
+My Solution
+
+```python
+class Solution(object):
+    def convertToTitle(self, num):
+        capitals = [chr(x) for x in range(ord('A'), ord('Z')+1)]
+        res = []
+        if num == 1: return "A"
+        while num > 0:
+            res.append(capitals[(num-1) % 26])
+            num = (num-1) // 26
+        res.reverse()
+        return ''.join(res)
+```
+
+## 思路想法
+1. Transfer the character from A to Z to the intergers that represents the char into a list. A-Z indeicate the index 0-25.
+Pay attension, we only can substract the 1 before doing the mod and floor division. We can't subtract after the result, because the list is start from
+0, so if we subtract 1 after the result, it will leave a single digit some time. 如果之前就剪掉，1就是1，0就是0. 如果res之后再剪掉，那么有时候剩余1，这一波其实是要剪掉了。但
+还会进入下一个loop。
+
+
+## Syntax
+ord(): Return the integer that represents the character "h"
+
+chr(): Get the character that represents the unicode 97
