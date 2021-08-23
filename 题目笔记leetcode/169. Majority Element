@@ -1,0 +1,39 @@
+## 169. Majority Element
+
+https://leetcode.com/problems/majority-element/
+
+My Solution
+
+```python
+#----------------Hashmap---------------------#
+class Solution(object):
+    def majorityElement(self, nums):
+        # Hashmap - T:O(n), S:O(n)
+        n = len(nums)
+        hashmap = {}
+        for x in nums:
+            if x not in hashmap:
+                hashmap[x] = 1
+            else:
+                hashmap[x] += 1
+        for z in nums:
+            if hashmap[z] > n/2:
+                return z
+#----------------Brute Force, Time limit exceed--------------#
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        n = len(nums)
+        for x in nums: 
+            count = 0
+            for z in nums:
+                if z == x:
+                    count += 1
+                if count > n/2:
+                    return x
+```
+
+## 思路想法
+1. Hashmapp: Allow us to count element occurrences efficiently.Then we can know the element occurs more than n/2 in next loop.
+
+2. Brute Force: 2 for loop to iterate over the array and then iterate again for each number to count its occurrences. As soon as he number is larger than half of
+the lengh, return
