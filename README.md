@@ -259,6 +259,8 @@ Track Shuati progress
 ||[167](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|2 SUM2 + 2 pointers/hashmap|
 ||[168](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/168.%20Excel%20Sheet%20Column%20Title)|Sheet Column + 注意mod/divide运算剩余的要和list下标对上|
 ||[169](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/169.%20Majority%20Element)|Majority element + 暴力循环时注意count初始化放在第一层|
+||[344](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/344.%20Reverse%20String(e).md)|Reverse string + 2种递归方法练习|
+||[24](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/24.%20Swap%20Nodes%20in%20Pairs(m).md)|Swap nodes in pairs + |
 ||[193]||
 ||[206]||
 ||[9]||
