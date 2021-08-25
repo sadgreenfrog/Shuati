@@ -1,0 +1,26 @@
+## 
+171. Excel Sheet Column Number
+
+https://leetcode.com/problems/excel-sheet-column-number/
+
+My Solution
+
+```python
+class Solution(object):
+    def titleToNumber(self, columnTitle):
+        capitals = [chr(_) for _ in range(ord('A'), ord('Z')+1)]
+        # if we use char to find the index remember to + 1
+        res = 0
+        for i, x in enumerate(columnTitle):
+            res = res*26 + (capitals.index(x)+1)
+        return res
+```
+
+## 思路想法
+1. Transfer the character from A to Z to the intergers that represents the char into a list. A-Z indeicate the index 0-25.
+Then, it is the revserd process of 168
+
+## Syntax
+ord(): Return the integer that represents the character "h"
+
+chr(): Get the character that represents the unicode 97
