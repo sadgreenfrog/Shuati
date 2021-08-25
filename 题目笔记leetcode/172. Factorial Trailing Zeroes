@@ -1,0 +1,32 @@
+## 
+172. Factorial Trailing Zeroes
+
+https://leetcode.com/problems/factorial-trailing-zeroes/
+
+My Solution
+
+```python
+#-----------------solution 2----------------------#
+class Solution(object):
+    def trailingZeroes(self, n):
+        count = 0
+        for i in range(5, n+1, 5):
+            current = i
+            # The reason of while is because it may more than 1 factor, like 25. We have to count them all
+            while current % 5 == 0:
+                count += 1
+                current //= 5
+        return count
+
+```
+
+## 思路想法
+1. Normal factorial: Basically it's repeated multiplication. O(n^2), not efficient way in an interview.
+
+2. Counting factors of 5: it's still too slow, but it's a good point to optimized. We can observe the generation of 0 is from factor 2 and factor 5, so that means
+we can count the # of 2s and 5s, then take the min occurance number. Then we find the occurance of 2s is always lbigger then 5s, because every second number will 
+count as a 2 factor while only every fifth number will count as a 5 factor. O(n)
+
+3. Don't understand
+
+
