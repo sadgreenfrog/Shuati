@@ -1,0 +1,36 @@
+## 
+779. K-th Symbol in Grammar
+
+https://leetcode.com/problems/k-th-symbol-in-grammar/
+
+My Solution
+
+```python
+#-------------------Recursive, Exceed time--------------#
+class Solution(object):
+    def kthGrammar(self, n, k):
+        if n == 1: return 0
+        path = self.helper(n)        
+        return path[k-1]  
+    def helper(self, n):
+        # termination: if n == 2: return[01]
+        # Return nth array
+        # Single layer: current l = pre[] + pre[1,0 reverse]
+        if n == 2: return [0,1]
+        last = self.helper(n-1)
+        part2 = last[:]
+        for i, x in enumerate(part2):
+            if x == 0:
+                part2[i] = 1
+            else:
+                part2[i] = 0
+        cur = last + part2
+        return cur
+#-------------------2nd recursive-----------------------#
+```
+
+## 思路想法
+1. Brute Force recursive: Generate the nth path from last path. Exceed the time.
+
+2. We can find the 1st part is the same as the last path, and 2nd part is the reversed of the 1st part. 
+
