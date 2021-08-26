@@ -1,16 +1,6 @@
 # 悲伤绿青蛙的Shuati
 Track Shuati progress 
 
-7.8 - 每天他妈的必须要做十个
-
-7.19 - 真的很难做到
-
-8.6 - 感觉每天最多七个了
-
-8.11 - 每天5个不能再少了
-
-8.16 - 有些medium还是太难了，先刷完high frequent easy。
-
 按照 https://github.com/youngyangyang04/leetcode-master/tree/master/problems 的顺序来刷题.
 
 |日期|题号|感想|
@@ -269,7 +259,8 @@ Track Shuati progress
 ||[172](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/172.%20Factorial%20Trailing%20Zeroes)|Factorial Trailing + Interger knowledge*******|
 ||[205](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/205.%20Isomorphic%20Strings.md)|Isomorphic strings + bidirection compare|
 ||[204](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/204.%20Count%20Primes.md)|Count primes + Very good example to optimize a solution|
-||[190]||
-||[191]||
+|8.26|[217](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/217.%20Contains%20Duplicate.md)|Hashmap grammer|
+||[219](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/219.%20Contains%20Duplicate%20II)|Hashmap more application|
+|Linked list专题|||
 
 
