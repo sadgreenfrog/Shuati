@@ -1,0 +1,79 @@
+## 
+205. Isomorphic Strings
+
+https://leetcode.com/problems/isomorphic-strings/
+
+My Solution
+
+```python
+#-----------------Error----------------------#
+class Solution(object):
+    def isIsomorphic(self, s, t):
+        if len(s) != len(t):
+            return False
+        sp, tp = 1, 1
+        while sp < len(s) and tp < len(s):
+            if s[sp] != s[sp-1]:
+                if t[tp] != t[tp-1]:
+                    sp += 1
+                    tp += 1
+                else:
+                    return False
+            else:
+                if t[tp] == t[tp-1]:
+                    sp += 1
+                    tp += 1
+                else:
+                    return False
+        return True
+#------------------- solution 2------------------------#
+class Solution:
+    def isIsomorphic(self, s: str, t: str) -> bool:
+        st_map = {}
+        ts_map = {}
+        for x1, x2 in zip(s,t):
+            # Don't use 'or' is because if one in map, the other is not in map, we can reduce to elif condition
+            if x1 not in st_map and x2 not in ts_map:
+                st_map[x1] = x2
+                ts_map[x2] = x1
+                
+            # .get() will return noe if specified key is not present
+            elif st_map.get(x1) != x2 or ts_map.get(x2) != x1:
+                return False
+        return True
+
+```
+
+## 思路想法
+1. Mistaken idea: Using two pointers for 2 strings respectively, each step it moves, we compare whether behavior at 2 pointers are the same, if not, false.
+This method is wrong because it is only record the change pattern, doesn't consider the value of the position. The question require no 2 characters can map to
+the same character.
+
+2. Character Mapping with Dictionary: We can process both of strings from left to right. At each step, we take 1 charater at a time from the 2 strings and compare 
+them. We can use dictionary to check whether the item is already exsitded before and whether it is use the previous value. 
+
+Notice: "badc" -> "baba", if we only compare from 1 string, this case will return false. It's bidirectinal.
+
+## Syntax
+The zip() function returns a zip object, which is an iterator of tuples where the first item in each passed iterator is paired together, and then 
+the second item in each passed iterator are paired together etc.
+
+If the passed iterators have different lengths, the iterator with the least items decides the length of the new iterator.
+
+```python
+1. Zip
+a = ("John", "Charles", "Mike")
+b = ("Jenny", "Christy", "Monica", "Vicky")
+
+x = zip(a, b)
+
+#use the tuple() function to display a readable version of the result:
+
+print(tuple(x))
+
+(('John', 'Jenny'), ('Charles', 'Christy'), ('Mike', 'Monica'))
+```
+2. dictionary.get()
+
+The Python dictionary get() method returns the value associated with a specific key. ... get()—method comes in: it returns the value for a specified 
+key in a dictionary. This method will only return a value if the specified key is present in the dictionary, otherwise it will return None.
