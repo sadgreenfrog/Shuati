@@ -1,0 +1,32 @@
+## 
+219. Contains Duplicate II
+
+https://leetcode.com/problems/contains-duplicate-ii/
+
+My Solution
+
+```python
+#----------------------Brute Force-----------------------#
+# T: O(n*min(k,n) S:O(1)
+class Solution(object):
+    def containsNearbyDuplicate(self, nums, k):
+        for i in range(len(nums)):
+            for j in range(i+1, k-i+1):
+                if nums[i] == nums[j]:
+                    return True
+        return False
+#----------------------Hash Map-------------------------#
+class Solution:
+    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:  
+        hashmap = {}
+        for i, x in enumerate(nums):
+            if x in hashmap and i - hashmap[x] <= k:
+                return True
+            else:
+                hashmap[x] = i
+        return False
+```
+
+## Thought process
+1. Brute Force: Just for practice, look for duplicate elements wihthin k position behind i.
+2. Using hashmap to record the index of value, if there is already has a same value in hashmap, check the index difference < k.
