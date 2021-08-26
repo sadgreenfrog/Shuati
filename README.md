@@ -269,5 +269,7 @@ Track Shuati progress
 ||[172](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/172.%20Factorial%20Trailing%20Zeroes)|Factorial Trailing + Interger knowledge*******|
 ||[205](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/205.%20Isomorphic%20Strings.md)|Isomorphic strings + bidirection compare|
 ||[204](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/204.%20Count%20Primes.md)|Count primes + Very good example to optimize a solution|
+||[190]||
+||[191]||
 
 
