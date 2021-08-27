@@ -252,7 +252,7 @@ Track Shuati progress
 |递归专题|[344](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/344.%20Reverse%20String(e).md)|Reverse string + 2种递归方法练习|
 ||[24](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/24.%20Swap%20Nodes%20in%20Pairs(m).md)|Swap nodes in pairs + Recusrive, 注意截止条件：迭代是true, recursive是false|
 |8.24|[104](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree(e).md)|Maxium depth of tree + DFS find depth|
-||[50](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/50.%20Pow(x,%20n)(m).md)|pow(x,n), 搞清楚单层逻辑|
+||[50](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/50.%20Pow(x,%20n)(m).md)|pow(x,n),搞清楚单层逻辑|
 |8.25|[779](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/779.%20K-th%20Symbol%20in%20Grammar.md)|K-th symbol in Grammar, Straight recursive & Find special rule|
 |recursion1 end|[95](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/95.%20Unique%20Binary%20Search%20Trees%20II.md)|Unique Binary Search Tree path + 递归*************|
 ||[171](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/171.%20Excel%20Sheet%20Column%20Number)|Excel Sheet column number + calculation|
