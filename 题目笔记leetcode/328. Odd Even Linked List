@@ -1,0 +1,32 @@
+## 
+328. Odd Even Linked List
+
+https://leetcode.com/problems/odd-even-linked-list/
+
+My Solution
+
+```python
+class Solution(object):
+    def oddEvenList(self, head):
+        if not head: return head
+        dummy1 = ListNode(next = head)
+        dummy2 = ListNode(next = head.next)
+        cur1 = head
+        cur2 = cur1.next
+        while cur1.next and cur2.next:
+            #cur2.next = temp
+            cur1.next = cur2.next
+            cur1 = cur1.next
+            cur2.next = cur1.next
+            cur2 = cur2.next
+        cur1.next = dummy2.next
+        return dummy1.next
+    
+```
+## 解题思路
+Intuitive method: 2 pointers, one for odd, one for even. When traverse to the end point, place the head of even list after the odd end.
+
+One thing worth to notice, the while condition should be cur1.next and cur2.next. Always examine if the node is null before we call the next field.
+And carefully define the end conditions of the loop. In this problem, we have to make sure cur.next is not null, because we will assign it to other node. 
+So cur should not be the last one. In other problems, we don't need something from .next, like just counting. In that case, we can just while head.
+
