@@ -264,7 +264,12 @@ Track Shuati progress
 |Linked list专题+递归|[206]（https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/206.%20Reverse%20Linked%20List(e).md）|Reverse linked list 迭代+递归|
 ||[83](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List(e).md)|Remove duplicate from linked list + 容易错误的地方|
 ||[21](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/21.%20Merge%20Two%20Sorted%20Lists(e).md)|Merge two sorted lists + 递归迭代|
-||[24](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/24.%20Swap%20Nodes%20in%20Pairs(m).md)|Swap Nodes in pairs:有一个copy的问题 |
+||[24](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/24.%20Swap%20Nodes%20in%20Pairs(m).md)|Swap Nodes in pairs:reference / value的传递|
+|8.27|[142](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/142.%20Linked%20List%20Cycle%20II.md)|Linked List cycle 2 + Hashmap和2pointers用来找交叉点|
+||[160](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/160.%20Intersection%20of%20Two%20Linked%20Lists(e).md)|Intersection of 2 linked lists + hashmap & 2 pointers|
+||[19](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List(m).md)|Remove Nth Node from ENd of list + 2 pointers(走动差值)+计算length|
+
+
 
 
 
