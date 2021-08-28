@@ -269,6 +269,7 @@ Track Shuati progress
 ||[160](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/160.%20Intersection%20of%20Two%20Linked%20Lists(e).md)|Intersection of 2 linked lists + hashmap & 2 pointers|
 ||[19](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List(m).md)|Remove Nth Node from ENd of list + 2 pointers(走动差值)+计算length|
 ||[328](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/328.%20Odd%20Even%20Linked%20List)|Odd Even Linked list, 注意while里面head/head.next,根据题意|
+||[234](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/234.%20Palindrome%20Linked%20List(e).md)|Palindrome + reverse + find half node|
 
 
 
