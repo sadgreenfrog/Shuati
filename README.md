@@ -270,6 +270,10 @@ Track Shuati progress
 ||[19](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List(m).md)|Remove Nth Node from ENd of list + 2 pointers(走动差值)+计算length|
 ||[328](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/328.%20Odd%20Even%20Linked%20List)|Odd Even Linked list, 注意while里面head/head.next,根据题意|
 ||[234](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/234.%20Palindrome%20Linked%20List(e).md)|Palindrome + reverse + find half node|
+|8.29|[257](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/257.%20Binary%20Tree%20Paths(e).md)|Binary Tree Path + stack + recursive|
+||[258]|Add digits + while loop的应用|
+||[263]|Ugly Number + while loop应用|
+
 
 
 
