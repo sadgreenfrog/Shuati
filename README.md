@@ -273,8 +273,10 @@ Track Shuati progress
 |8.29|[257](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/257.%20Binary%20Tree%20Paths(e).md)|Binary Tree Path + stack + recursive|
 ||[258]|Add digits + while loop的应用|
 ||[263]|Ugly Number + while loop应用|
-|8.30|[144](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/144.%20Binary%20Tree%20Preorder%20Traversal(e).md)|Binary Tree predorder Traversal + Iterate&Recursive|
-||[]||
+|8.30|[144](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/144.%20Binary%20Tree%20Preorder%20Traversal(e).md)|Binary Tree predorder Traversal + top-down,left-right|
+||[145]|Binary tree postorder traversal + down-top,left-right + calculate node depth + delete node|
+||[94]|Binary Tree inorder traversal + left-node-right, retrive sorted data|
+||[658](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/658.%20Find%20K%20Closest%20Elements)|Find k closest elements + 二分法 + 移动窗口|
 
 
 
