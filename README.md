@@ -261,7 +261,7 @@ Track Shuati progress
 ||[204](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/204.%20Count%20Primes.md)|Count primes + Very good example to optimize a solution|
 |8.26|[217](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/217.%20Contains%20Duplicate.md)|Hashmap grammer|
 ||[219](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/219.%20Contains%20Duplicate%20II)|Hashmap more application|
-|Linked list专题|[206](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/206.%20Reverse%20Linked%20List(e).md)|Reverse linked list 迭代+递归|
+|Linked list explore专题|[206](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/206.%20Reverse%20Linked%20List(e).md)|Reverse linked list 迭代+递归|
 ||[83](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List(e).md)|Remove duplicate from linked list + 容易错误的地方|
 ||[21](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/21.%20Merge%20Two%20Sorted%20Lists(e).md)|Merge two sorted lists + 递归迭代|
 ||[24](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/24.%20Swap%20Nodes%20in%20Pairs(m).md)|Swap Nodes in pairs:reference / value的传递|
@@ -273,7 +273,8 @@ Track Shuati progress
 |8.29|[257](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/257.%20Binary%20Tree%20Paths(e).md)|Binary Tree Path + stack + recursive|
 ||[258]|Add digits + while loop的应用|
 ||[263]|Ugly Number + while loop应用|
-
+|8.30|[144](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/144.%20Binary%20Tree%20Preorder%20Traversal(e).md)|Binary Tree predorder Traversal + Iterate&Recursive|
+||[]||
 
 
 
