@@ -282,9 +282,9 @@ Track Shuati progress
 ||[290](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/290.%20Word%20Pattern.md)|Word Pattern, 2 hashmap can compare each other|
 ||[292](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/292.%20Nim%20Game.md)|DP problem, count all posiblities in each step|
 ||[350](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/350.%20Intersection%20of%20Two%20Arrays%20II.md)|Intersection of 2 arrays + hashmap or 2 pointers|
-|Amazon OA|[1041]||
-||[937]|String split, lambda, join, sort的用法|
-||[1465]|Max Area of a piece of cake after ho and ver cuts + Module!!|
+|Amazon OA|[1041](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1041.%20Robot%20Bounded%20In%20Circle.md)|Robot Bounded in Circle|
+||[937](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/937.%20Reorder%20Data%20in%20Log%20Files(e).md)|String split, lambda, join, sort的用法|
+||[1465](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.md)|Max Area of a piece of cake after ho and ver cuts + Module!!|
 ||[1152](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1152.%20Analyze%20User%20Website%20Visit%20Pattern.md)|Analyze User website visit pattern: defaultdict, set, zip, combination,update|
 
 
