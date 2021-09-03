@@ -277,6 +277,17 @@ Track Shuati progress
 ||[145]|Binary tree postorder traversal + down-top,left-right + calculate node depth + delete node|
 ||[94]|Binary Tree inorder traversal + left-node-right, retrive sorted data|
 ||[658](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/658.%20Find%20K%20Closest%20Elements)|Find k closest elements + 二分法 + 移动窗口|
+|9.1|[228](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/228.%20Summary%20Ranges)|Summary Ranges + string操作+ array遍历|
+||[235](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)|lca of a Binary Search Tree, Use BST charactor to induce p,q into the lowest tree level|
+||[290](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/290.%20Word%20Pattern.md)|Word Pattern, 2 hashmap can compare each other|
+||[292](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/292.%20Nim%20Game.md)|DP problem, count all posiblities in each step|
+||[350](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/350.%20Intersection%20of%20Two%20Arrays%20II.md)|Intersection of 2 arrays + hashmap or 2 pointers|
+|Amazon OA|[1041]||
+||[937]|String split, lambda, join, sort的用法|
+||[1465]|Max Area of a piece of cake after ho and ver cuts + Module!!|
+||[1152](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1152.%20Analyze%20User%20Website%20Visit%20Pattern.md)|Analyze User website visit pattern: defaultdict, set, zip, combination,update|
+
+
 
 
 
