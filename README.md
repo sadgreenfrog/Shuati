@@ -286,6 +286,7 @@ Track Shuati progress
 ||[937](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/937.%20Reorder%20Data%20in%20Log%20Files(e).md)|String split, lambda, join, sort的用法|
 ||[1465](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.md)|Max Area of a piece of cake after ho and ver cuts + Module!!|
 ||[1152](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1152.%20Analyze%20User%20Website%20Visit%20Pattern.md)|Analyze User website visit pattern: defaultdict, set, zip, combination,update|
+|9.2|[31](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/31.%20Next%20Permutation(m).md)|Next permutation + Have to clearly the whole process, and when find the next something, travser from back is good.|
 
 
 
