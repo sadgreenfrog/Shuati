@@ -1,0 +1,39 @@
+## 
+200. Number of Islands
+
+https://leetcode.com/problems/number-of-islands/
+
+My Solution
+
+```python
+class Solution(object):
+    
+    # Search for 1
+    def dfs(self, grid, r, c):
+        # Base case: row, col
+        row = len(grid)
+        col = len(grid[0])
+        
+        if c < 0 or r < 0 or c >= col or r >= row or grid[r][c] == "0":
+            return
+        else:
+            grid[r][c] = "0"
+            self.dfs(grid, r, c-1)
+            self.dfs(grid, r, c+1)
+            self.dfs(grid, r-1, c)
+            self.dfs(grid, r+1, c)
+        
+    def numIslands(self, grid):
+        num_of_island = 0
+        row, col = len(grid), len(grid[0])
+        for i in range(row):
+            for j in range(col):
+                if grid[i][j] == "1":
+                    num_of_island += 1
+                    self.dfs(grid, i, j)
+        return num_of_island            
+```
+## 思路想法
+1. DFS to search through the 2-d matrix, if a node contains a '1', then it is the root node that triggers a DFS. During DFS, every visited node should be set
+as '0' to mark as visted node. Then count the number of root nodes that trigger DFS, this number would be the number of islands since each DFS start at some root identifiers
+an island.
