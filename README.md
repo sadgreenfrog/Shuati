@@ -288,7 +288,7 @@ Track Shuati progress
 ||[1152](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1152.%20Analyze%20User%20Website%20Visit%20Pattern.md)|Analyze User website visit pattern: defaultdict, set, zip, combination,update|
 |9.2|[31](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/31.%20Next%20Permutation(m).md)|Next permutation + Have to clearly the whole process, and when find the next something, travser from back is good.|
 |9.4|[706](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/706.%20Design%20HashMap.md)|Design hashmap + Hashfunction & collision(Use tupple)|
-||||
+||[146](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/146.%20LRU%20Cache.md)|LRU Cache, doubly linked list + Hashmap|
 
 
 
