@@ -289,6 +289,11 @@ Track Shuati progress
 |9.2|[31](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/31.%20Next%20Permutation(m).md)|Next permutation + Have to clearly the whole process, and when find the next something, travser from back is good.|
 |9.4|[706](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/706.%20Design%20HashMap.md)|Design hashmap + Hashfunction & collision(Use tupple)|
 ||[146](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/146.%20LRU%20Cache.md)|LRU Cache, doubly linked list + Hashmap|
+||[378](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)|Kth smallest Element in a sorted matrix + minheap, creat,pop|
+|9.5|[42](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/42.%20Trapping%20Rain%20Water.md)|Trapping Rain water + Memorization|
+||[200](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/200.%20Number%20of%20Islands.md)|Number of Islands + DFS Search|
+||[2](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/2.%20Add%20Two%20Numbers.md)|Add two numbers + Linked list iterate|
+||||
 
 
 
