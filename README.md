@@ -293,7 +293,9 @@ Track Shuati progress
 |9.5|[42](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/42.%20Trapping%20Rain%20Water.md)|Trapping Rain water + Memorization|
 ||[200](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/200.%20Number%20of%20Islands.md)|Number of Islands + DFS Search|
 ||[2](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/2.%20Add%20Two%20Numbers.md)|Add two numbers + Linked list iterate|
-||||
+|9.7|[33](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array(m).md)|Search in a Sorted Array + binary search|
+||[532](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/532.%20K-diff%20Pairs%20in%20an%20Array.md)|k-diff pairs in array + sliding window/2 pointers/hashmap|
+||[3]|Substring without repeating characters + 2 pointers/|
 
 
 
