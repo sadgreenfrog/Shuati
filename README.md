@@ -299,6 +299,9 @@ Track Shuati progress
 ||[819]|Most Common Word + string preprocess is important|
 |9.8|[736]|Partition Labels + Greedy, extend the range to the char occured last|
 ||[139]|Word Break, recursive + DFS|
+||[5]|Longest Palindromic Substring + DP travserse from back not from front!! Or will miss some case|
+|9.9|[973]|Need amendation!!!|
+||[23]|Merge K sorted lists + be aware python3 can't directly heapify!!|
 
 
 
