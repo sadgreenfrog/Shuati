@@ -302,6 +302,8 @@ Track Shuati progress
 ||[5]|Longest Palindromic Substring + DP travserse from back not from front!! Or will miss some case|
 |9.9|[973]|Need amendation!!!|
 ||[23]|Merge K sorted lists + be aware python3 can't directly heapify!!|
+||[36]|Valid Sudoku, using hashset to record the duplicates|
+|9.10|[39]|Combination Sum, be notice the position of pop|
 
 
 
