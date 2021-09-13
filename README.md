@@ -304,7 +304,10 @@ Track Shuati progress
 ||[23]|Merge K sorted lists + be aware python3 can't directly heapify!!|
 ||[36]|Valid Sudoku, using hashset to record the duplicates|
 |9.10|[39]|Combination Sum, be notice the position of pop|
-
+|9.11|Amazon review||
+|9.12|Amazon review||
+|9.13|Amazon review||
+|9.14|Amazon review||
 
 
 
