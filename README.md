@@ -308,7 +308,7 @@ Track Shuati progress
 |9.12|Amazon review||
 |9.13|Amazon review||
 |9.14|Amazon review||
-
+|10.12|2 sum -> 3 Sum|Can't use backtrack, will exceed time.|
 
 
 
