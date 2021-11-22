@@ -1,0 +1,26 @@
+## Find Pivot Index
+
+https://leetcode.com/problems/find-pivot-index/
+
+My Solution
+
+```python
+class Solution(object):
+    def pivotIndex(self, nums):
+        S = sum(nums)
+        leftsum = 0
+        for i, x in enumerate(nums):
+            if leftsum == S-x-leftsum:
+                return i
+            leftsum += x
+        return -1
+
+```
+
+## 思路想法
+
+We need to quickly compute the sum of values to the left and the right of every index.
+
+We can set a variable for leftsum, then the rightsum would be Stotal - x(current) - leftsum. If left == right, then return index.
+
+I am using 2 pointers first, then I find I can't handle the situation the index == 0.
