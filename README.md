@@ -316,6 +316,7 @@ Track Shuati progress
 |Diagonal Traverse|[498](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/498.%20Diagonal%20Traverse.md)|Deduce from the similiar/simple version|
 |Spiral Matrix|[54](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|Notice the boundary condition|
 |Pascal's Triangle|[118](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/118.%20Pascal's%20Triangle.md)|Recursive,start from n to 0/ DP, start from 0 to n|
+|Add Binary|[67](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/67.%20Add%20Binary(e).md)||
 
 
 
