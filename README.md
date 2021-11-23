@@ -314,6 +314,8 @@ Track Shuati progress
 |Largest Number At Least Twice of Others|[747](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.md)|For array, always find a method to differenciate the requirement|
 |Plus one|[66](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/66.%20Plus%20One.md)||
 |Diagonal Traverse|[498](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/498.%20Diagonal%20Traverse.md)|Deduce from the similiar/simple version|
+|Spiral Matrix|[54](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|Notice the boundary condition|
+|Pascal's Triangle|[118](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/118.%20Pascal's%20Triangle.md)|Recursive,start from n to 0/ DP, start from 0 to n|
 
 
 
