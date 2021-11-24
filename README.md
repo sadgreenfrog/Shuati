@@ -323,6 +323,14 @@ Track Shuati progress
 |Two Sum II|[167](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)|One-way hashmap used to when need sum of 2 elements|
 |Remove Element|[27](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/27.%20Remove%20Element(e).md)|2 poniters used at remove element|
 | Minimum Size Subarray Sum|[209](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/209.%20Minimum%20Size%20Subarray%20Sum(m).md)|Sliding window|
+|Rotate Array|[189](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/189.%20Rotate%20Array.md)|Tirck to shift the array|
+|11.24|||
+|Pascal's Triangle II|||
+|Reverse Words in a String|||
+|Reverse Words in a String III|||
+|Remove Duplicates from Sorted Array|||
+|Move Zeroes|||
+
 
 ||Arrays 101||
 
