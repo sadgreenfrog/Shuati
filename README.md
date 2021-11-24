@@ -317,8 +317,12 @@ Track Shuati progress
 |Spiral Matrix|[54](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/54.%20Spiral%20Matrix(m).md)|Notice the boundary condition|
 |Pascal's Triangle|[118](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/118.%20Pascal's%20Triangle.md)|Recursive,start from n to 0/ DP, start from 0 to n|
 |Add Binary|[67](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/67.%20Add%20Binary(e).md)||
-
-
+|11.23|||
+|Implement strStr()|[28](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/28.%20Implement%20strStr()(e).md)|Using 2 loop will exceed time|
+|Longest Common Prefix|[14](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/14.%20Longest%20Common%20Prefix(e).md)|Horizontal scanning|
+|Two Sum II|[167](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)|One-way hashmap used to when need sum of 2 elements|
+|Remove Element|[27](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/27.%20Remove%20Element(e).md)|2 poniters used at remove element|
+| Minimum Size Subarray Sum|[209](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/209.%20Minimum%20Size%20Subarray%20Sum(m).md)|Sliding window|
 
 ||Arrays 101||
 
