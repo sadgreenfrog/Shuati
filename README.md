@@ -325,14 +325,15 @@ Track Shuati progress
 | Minimum Size Subarray Sum|[209](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/209.%20Minimum%20Size%20Subarray%20Sum(m).md)|Sliding window|
 |Rotate Array|[189](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/189.%20Rotate%20Array.md)|Tirck to shift the array|
 |11.24|||
-|Pascal's Triangle II|||
-|Reverse Words in a String|||
-|Reverse Words in a String III|||
-|Remove Duplicates from Sorted Array|||
-|Move Zeroes|||
+|Pascal's Triangle II|[119](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/119.%20Pascal's%20Triangle%20II.md)|Bottom up, 正推|
+|Reverse Words in a String|[151](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/151.%20Reverse%20Words%20in%20a%20String(m).md)|Tech to trim middle spaces & reverse single word|
+|Remove Duplicates from Sorted Array||Same as 27|
+|Move Zeroes|[283](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/283.%20Move%20Zeros.md)|Move 0s the end of list|
+|11.26|[Arrays 101]||
+||||
 
 
-||Arrays 101||
+
 
 
 
