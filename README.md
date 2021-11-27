@@ -335,7 +335,10 @@ Track Shuati progress
 |Duplicate Zeros|[1089](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1089.%20Duplicate%20Zeros.md)|Create duplicates and move whole after list 1 step right|
 |Merge Sorted Array|[88](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/88.%20Merge%20Sorted%20Array(e).md)|O(1) space: Try iterating backwards|
 |11.27|||
-||||
+|Remove Duplicates from Sorted Array|[26](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/26.%20Remove%20Duplicates%20from%20Sorted%20Array(e).md)|Add element: Start from end. Delete element: Start from begining|
+|Check If N and Its Double Exist|[1346](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.md)|Hashset/map usually using in find inner relation in an array|
+|Valid Mountain Array|[941](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/941.%20Valid%20Mountain%20Array.md)|Using flags to indicate which process we are in|
+
 
 
 
