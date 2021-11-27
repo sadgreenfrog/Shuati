@@ -333,6 +333,9 @@ Track Shuati progress
 |Find Numbers with Even Number of Digits|[1295](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md)||
 |Squares of a Sorted Array|[977](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/977.%20Squares%20of%20a%20Sorted%20Array.md)|2 pointers|
 |Duplicate Zeros|[1089](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1089.%20Duplicate%20Zeros.md)|Create duplicates and move whole after list 1 step right|
+|Merge Sorted Array|[88](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/88.%20Merge%20Sorted%20Array(e).md)|O(1) space: Try iterating backwards|
+|11.27|||
+||||
 
 
 
