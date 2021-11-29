@@ -340,7 +340,11 @@ Track Shuati progress
 |Valid Mountain Array|[941](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/941.%20Valid%20Mountain%20Array.md)|Using flags to indicate which process we are in|
 |Replace Elements with Greatest Element on Right Side|[1299](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.md)|Update maxright value and swap current value|
 11.28:
-||||
+|Height Checker|[1051](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/1051.%20Height%20Checker.md)|Counting Sort|
+|Max Consecutive Ones II|[487](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/487.%20Max%20Consecutive%20Ones%20II.md)|Sliding window pattern & Tried ripple effect|
+|Third Maximum Number|[414](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/414.%20Third%20Maximum%20Number.md)|Keep of 3 maxium using set|
+|Find All Numbers Disappeared in an Array|[448](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)|Hashmap & negative to record visited|
+
 
 
 
