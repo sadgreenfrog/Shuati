@@ -346,8 +346,9 @@ Track Shuati progress
 |Find All Numbers Disappeared in an Array|[448](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)|Hashmap & negative to record visited|
 |11.29|||
 |Swap Nodes in Pairs|[24](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/24.%20Swap%20Nodes%20in%20Pairs(m).md)||
-
-
+|Reverse Linked List|[206](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/206.%20Reverse%20Linked%20List(e).md)|Notice return value|
+|Pascal's Triangle II|[119](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/119.%20Pascal's%20Triangle%20II.md)|Recursive & DP|
+|Fibonacci Number|[509](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/509.%20Fibonacci%20Number(e).md)|Pass by value & pass by parameter within function|
 
 
 
