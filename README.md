@@ -344,6 +344,8 @@ Track Shuati progress
 |Max Consecutive Ones II|[487](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/487.%20Max%20Consecutive%20Ones%20II.md)|Sliding window pattern & Tried ripple effect|
 |Third Maximum Number|[414](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/414.%20Third%20Maximum%20Number.md)|Keep of 3 maxium using set|
 |Find All Numbers Disappeared in an Array|[448](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)|Hashmap & negative to record visited|
+|11.29|||
+|Swap Nodes in Pairs|[24](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/24.%20Swap%20Nodes%20in%20Pairs(m).md)||
 
 
 
