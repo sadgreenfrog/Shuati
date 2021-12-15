@@ -362,4 +362,6 @@ Track Shuati progress
 |Sudoku Solver|[37](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/37.%20Sudoku%20Solver.md)|Hard Backtrack|
 12.15
 |Generate Parentheses|[22](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/22.%20Generate%20Parentheses(m).md)|Backtrack|
+12.16
+|Convert Binary Search Tree to Sorted Doubly Linked List|[426](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.md)|Tree traverse and inplace operate|
 
