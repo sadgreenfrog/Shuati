@@ -360,7 +360,6 @@ Track Shuati progress
 |N-Queens II|[52](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/52.%20N-Queens%20II.md)|Backtracking|
 |Robot Room Cleaner|[489](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/489.%20Robot%20Room%20Cleaner.md)|Hard Backtrack|
 |Sudoku Solver|[37](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/37.%20Sudoku%20Solver.md)|Hard Backtrack|
-
-
-
+12.15
+|Generate Parentheses|[22](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/22.%20Generate%20Parentheses(m).md)|Backtrack|
 
