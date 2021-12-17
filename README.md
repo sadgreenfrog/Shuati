@@ -366,5 +366,6 @@ Track Shuati progress
 |Convert Binary Search Tree to Sorted Doubly Linked List|[426](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.md)|Tree traverse and inplace operate|
 |12.17|||
 |Permutation with reduce duplicate|[46&47](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/47.%20Permutations%20II(m).md)|Got clear the same branch and same level|
-
+|Letter Combinations of a Phone Number|[17](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(m).md)|A combination question|
+|Largest Rectangle in Histogram|[84](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/84.%20Largest%20Rectangle%20in%20Histogram.md)|DC|
 
