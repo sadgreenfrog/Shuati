@@ -374,3 +374,5 @@ Track Shuati progress
 | Design Circular Queue|[622](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/622.%20Design%20Circular%20Queue.md)|The property of queue|
 |Moving Average from Data Stream|[346](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/346.%20Moving%20Average%20from%20Data%20Stream.md)|Circular queue with Array implementation|
 |Walls and Gates|[286](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/286.%20Walls%20and%20Gates.md)|BFS/DFS use scenarios!!!|
+|12.20|Weekly contest||
+|Longest Increasing Subsequence|[300|(https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/300.%20Longest%20Increasing%20Subsequence(m).md)|DP + Create subarray + binary search left|
