@@ -370,6 +370,7 @@ Track Shuati progress
 |Largest Rectangle in Histogram|[84](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/84.%20Largest%20Rectangle%20in%20Histogram.md)|DC|
 |12.18|||
 |The Skyline Problem|[218](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/218.%20The%20Skyline%20Problem.md)|很难的dc|
+||Queue and Stack ||
 | Design Circular Queue|[622](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/622.%20Design%20Circular%20Queue.md)|The property of queue|
 |Moving Average from Data Stream|[346](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/346.%20Moving%20Average%20from%20Data%20Stream.md)|Circular queue with Array implementation|
 |Walls and Gates|[286](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/286.%20Walls%20and%20Gates.md)|BFS/DFS use scenarios!!!|
