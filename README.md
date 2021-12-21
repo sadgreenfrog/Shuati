@@ -376,3 +376,5 @@ Track Shuati progress
 |Walls and Gates|[286](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/286.%20Walls%20and%20Gates.md)|BFS/DFS use scenarios!!!|
 |12.20|Weekly contest||
 |Longest Increasing Subsequence|[300](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/300.%20Longest%20Increasing%20Subsequence(m).md)|DP + Create subarray + binary search left|
+|12.21|||
+|Open the Lock|[752](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/752.%20Open%20the%20Lock.md)|BFS|
