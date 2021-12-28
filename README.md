@@ -379,3 +379,12 @@ Track Shuati progress
 |12.21|||
 |Open the Lock|[752](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/752.%20Open%20the%20Lock.md)|BFS|
 |Perfect Squares|[279](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/279.%20Perfect%20Squares.md)|DPok, DFS+BFS不会|
+|12.24|||
+|Min Stack|[155](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/155.%20Min%20Stack.md)|Stack concept|
+|Daily Temperatures|[739](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/739.%20Daily%20Temperatures.md)|Monotonic Stack|
+|Evaluate Reverse Polish Notation|[150](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/150.%20Evaluate%20Reverse%20Polish%20Notation(e).md)|Stack tos tore value until meet operator|
+|12.28|||
+|Clone Graph|[133](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/133.%20Clone%20Graph.md)|DFS to traverse the graph|
+|Target Sum|[494](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/494.%20Target%20Sum.md)|Return single value, pass by value|
+
+
