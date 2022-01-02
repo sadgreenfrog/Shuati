@@ -386,5 +386,9 @@ Track Shuati progress
 |12.28|||
 |Clone Graph|[133](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/133.%20Clone%20Graph.md)|DFS to traverse the graph|
 |Target Sum|[494](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/494.%20Target%20Sum.md)|Return single value, pass by value|
-
+|12.30|||
+|Implement Queue using Stacks|[232](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/232.%20Implement%20Queue%20using%20Stacks(e).md)|2 stacks to reverse the insert sequence|
+|Implement Stack using Queues|[225](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/225.%20Implement%20Stack%20using%20Queues(e).md)|2 queues to reverse the insert sequence|
+|1.2|||
+|Decode String|[394](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/394.%20Decode%20String.md)|Use stack if some char in input will trigger trace back|
 
