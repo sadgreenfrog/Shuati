@@ -392,4 +392,7 @@ Track Shuati progress
 |1.2|||
 |Decode String|[394](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/394.%20Decode%20String.md)|Use stack if some char in input will trigger trace back|
 |Flood Fill|[733](https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/733.%20Flood%20Fill.md)|DFS|
+|1.17|||
+|01 Matrix|542(https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/542.%2001%20Matrix.md)|DFS不适用,native bfs/bfs|
+|Keys and Rooms|841(https://github.com/sadgreenfrog/Shuati/blob/main/%E9%A2%98%E7%9B%AE%E7%AC%94%E8%AE%B0leetcode/841.%20Keys%20and%20Rooms.md)|DFS/stack to iterate path|
 
